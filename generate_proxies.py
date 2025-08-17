@@ -1,14 +1,14 @@
+# generate_proxies.py
 import requests
-import re
-import base64
-import json
 import yaml
-from urllib.parse import urlparse, unquote
+import re
+from urllib.parse import urlparse, unquote, quote
 
+# README.md 的 Raw 链接，数据源现在是这里
 README_URL = "https://raw.githubusercontent.com/TopChina/proxy-list/main/README.md"
 OUTPUT_FILE = "proxies.yaml"
 
-def fetch_readme_content(url):
+def fetch_content(url):
     print(f"[*] Fetching content from {url}...")
     try:
         response = requests.get(url, timeout=15)
@@ -19,87 +19,81 @@ def fetch_readme_content(url):
         print(f"[!] Download failed: {e}")
         return None
 
-def extract_proxy_links(content):
-    pattern = r'(vmess|ss|trojan)://[^\s`\'"]+'
-    links = re.findall(pattern, content)
-    print(f"[*] Found {len(links)} potential proxy links.")
-    return links
+def reconstruct_and_parse_from_readme(content):
+    """
+    从 README.md 的 Markdown 表格中提取信息，
+    重构为 vless 链接，然后解析。
+    """
+    # 正则表达式匹配 Markdown 表格行
+    # | 144.48.39.114:8081 | 澳大利亚 | afY491o7...== |
+    pattern = re.compile(r'\|\s*([\d\.:]+)\s*\|\s*([^|]+)\s*\|\s*([a-zA-Z0-9+/=_-]+)\s*\|')
+    
+    matches = pattern.findall(content)
+    print(f"[*] Found {len(matches)} potential nodes in the README table.")
+    
+    proxies = []
+    for match in matches:
+        ip_port, location, uuid = match
+        # 清理提取出的字符串
+        ip_port = ip_port.strip()
+        location = location.strip()
+        uuid = uuid.strip()
 
-def parse_link(link):
-    try:
-        if link.startswith('vmess://'):
-            return parse_vmess(link)
-        elif link.startswith('ss://'):
-            return parse_ss(link)
-        elif link.startswith('trojan://'):
-            return parse_trojan(link)
-    except Exception:
-        return None
-    return None
+        # 分离 IP 和端口
+        if ':' not in ip_port:
+            continue
+        server, port_str = ip_port.split(':', 1)
+        try:
+            port = int(port_str)
+        except ValueError:
+            continue
+            
+        # 构造节点名称
+        name = f"VLESS_{location}_{server}"
 
-def parse_vmess(link):
-    try:
-        decoded_part = base64.b64decode(link[8:]).decode('utf-8')
-        data = json.loads(decoded_part)
-        proxy = {
-            'name': data.get('ps', data.get('add', 'vmess_node')),
-            'type': 'vmess', 'server': data.get('add'), 'port': int(data.get('port')),
-            'uuid': data.get('id'), 'alterId': int(data.get('aid')), 'cipher': data.get('scy', 'auto'),
-            'tls': data.get('tls') == 'tls', 'network': data.get('net', 'tcp'),
+        # 这是一个基于 VLESS + TCP 的基础配置，因为源信息有限
+        # 这是最常见和基础的非 TLS 配置
+        proxy_node = {
+            'name': name,
+            'type': 'vless',
+            'server': server,
+            'port': port,
+            'uuid': uuid,
+            'network': 'tcp',
+            'tls': False,
+            'udp': True, # 普遍开启 UDP 转发
+            'cipher': 'auto',
+            'client-fingerprint': 'chrome' # 添加指纹以提高连接成功率
         }
-        if proxy['tls']:
-            proxy['sni'] = data.get('sni', data.get('host', ''))
-            proxy['skip-cert-verify'] = True
-        if proxy['network'] == 'ws':
-            proxy['ws-opts'] = {'path': data.get('path', '/'), 'headers': {'Host': data.get('host', proxy['server'])}}
-        return proxy
-    except: return None
+        proxies.append(proxy_node)
+        
+    return proxies
 
-def parse_ss(link):
-    try:
-        main_part, name_part = link[5:].split('#', 1)
-        name = unquote(name_part)
-        if '@' in main_part:
-            decoded_part = base64.b64decode(main_part).decode('utf-8')
-            method, password_server = decoded_part.split(':', 1)
-            password, server_port = password_server.split('@', 1)
-            server, port = server_port.split(':')
-        else: # ss://method:pass@server:port#name
-            user_info, server_info = main_part.split('@')
-            method, password = user_info.split(':')
-            server, port = server_info.split(':')
-
-        return {'name': name, 'type': 'ss', 'server': server, 'port': int(port), 'cipher': method, 'password': password}
-    except: return None
-
-def parse_trojan(link):
-    try:
-        parsed_url = urlparse(link)
-        password = parsed_url.username
-        server = parsed_url.hostname
-        port = parsed_url.port
-        name = unquote(parsed_url.fragment) if parsed_url.fragment else f"trojan_{server}"
-        query_params = dict(p.split('=') for p in parsed_url.query.split('&') if '=' in p)
-        sni = query_params.get('sni', server)
-        return {'name': name, 'type': 'trojan', 'server': server, 'port': port, 'password': password, 'sni': sni, 'skip-cert-verify': True}
-    except: return None
+# --- 旧的解析函数不再需要，因为我们直接构造字典 ---
+# 我们保留一个通用的主函数结构
 
 def main():
-    content = fetch_readme_content(README_URL)
-    if not content: return
+    readme_content = fetch_content(README_URL)
+    if not readme_content:
+        return
 
-    links = extract_proxy_links(content)
-    proxies = [p for p in (parse_link(link) for link in links) if p]
+    # 直接从 README 内容构造并解析节点
+    proxies = reconstruct_and_parse_from_readme(readme_content)
     
-    print(f"[+] Successfully parsed {len(proxies)} nodes.")
+    if not proxies:
+        print("[!] No proxy nodes were parsed. The output file will be empty.")
+    else:
+        print(f"[+] Successfully parsed {len(proxies)} nodes.")
 
-    # Create a dictionary with a single 'proxies' key
     clash_config_part = {'proxies': proxies}
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        yaml.dump(clash_config_part, f, allow_unicode=True, sort_keys=False, indent=2)
+    try:
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            yaml.dump(clash_config_part, f, allow_unicode=True, sort_keys=False, indent=2)
+        print(f"\n[✓] Success! Proxy list has been saved to: {OUTPUT_FILE}")
+    except Exception as e:
+        print(f"[!] Failed to write to {OUTPUT_FILE}: {e}")
 
-    print(f"\n[✓] Success! Proxy list has been saved to: {OUTPUT_FILE}")
-    
 if __name__ == "__main__":
     main()
+
