@@ -1139,13 +1139,13 @@ proxies:
   port: 8081
   username: afY491o7YfK00koaXQD9kYCfHn5GZMhbQnHBJzhbUaYqzK4Uz2urtVPP7F3KYxnaoXw609MC0WdYefYZbCn32A==
   password: '1'
-- name: 🌍 韩国 01
+- name: 🇰🇷 韩国 01
   type: http
   server: 79.110.55.34
   port: 8081
   username: afY491o7YfK00koaXQD9kYCfHn5GZMhbQnHBJzhbUabrfpEyo9d7oM6gs53pebNooXw609MC0WdYefYZbCn32A==
   password: '1'
-- name: 🌍 韩国 02
+- name: 🇰🇷 韩国 02
   type: http
   server: 61.255.174.11
   port: 8081
@@ -1169,7 +1169,7 @@ proxies:
   port: 8081
   username: afY491o7YfK00koaXQD9kYCfHn5GZMhbQnHBJzhbUab013MOqGEekZVE6Z4mcSnFoXw609MC0WdYefYZbCn32A==
   password: '1'
-- name: 🌍 韩国 03
+- name: 🇰🇷 韩国 03
   type: http
   server: 140.174.179.129
   port: 8081
@@ -2056,12 +2056,12 @@ proxy-groups:
   - 🇰🇪 肯尼亚 01
   - 🇯🇵 日本 06
   - 🇯🇵 日本 07
-  - 🌍 韩国 01
-  - 🌍 韩国 02
+  - 🇰🇷 韩国 01
+  - 🇰🇷 韩国 02
   - 🇯🇵 日本 08
   - 🇰🇬 吉尔吉斯斯坦 01
   - 🇱🇹 立陶宛 01
-  - 🌍 韩国 03
+  - 🇰🇷 韩国 03
   - 🇰🇬 吉尔吉斯斯坦 02
   - 🇰🇼 科威特 01
   - 🇱🇹 立陶宛 02
@@ -2259,7 +2259,7 @@ proxy-groups:
   - 🇩🇿 阿尔及利亚
   - 🇦🇪 阿拉伯联合酋长国
   - 🇦🇷 阿根廷
-  - 🌍 韩国
+  - 🇰🇷 韩国
   - 🇭🇰 香港
   - 🇲🇾 马来西亚
   - 🇲🇹 马耳他
@@ -3042,12 +3042,12 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: 300
   lazy: true
-- name: 🌍 韩国
+- name: 🇰🇷 韩国
   type: url-test
   proxies:
-  - 🌍 韩国 01
-  - 🌍 韩国 02
-  - 🌍 韩国 03
+  - 🇰🇷 韩国 01
+  - 🇰🇷 韩国 02
+  - 🇰🇷 韩国 03
   url: http://www.gstatic.com/generate_204
   interval: 300
   lazy: true
