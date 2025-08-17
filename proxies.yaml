@@ -1,3091 +1,3109 @@
 proxies:
-- name: VLESS_澳大利亚_144.48.39.114
-  type: vless
-  server: 144.48.39.114
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxG6UCfTwmnd1qmQowlOMbyoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_103.50.33.186
-  type: vless
-  server: 103.50.33.186
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwOjMMupljivp5MHRrgIdSCoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_190.103.177.162
-  type: vless
-  server: 190.103.177.162
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx4kMANY6FBCBFqqkoYyd89xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_奥地利_146.70.146.22
-  type: vless
-  server: 146.70.146.22
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx5Jwz7JhxU0njiEcRQPFzZoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_144.48.38.138
-  type: vless
-  server: 144.48.38.138
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLypKs5Wt-WvW10Rm6q6wV68xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_103.50.33.21
-  type: vless
-  server: 103.50.33.21
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyh0j3L0iFjSNjn96igxUhToXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_38.165.230.218
-  type: vless
-  server: 38.165.230.218
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzqzOsU8ntYIwFwJraxecnzoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_103.108.229.143
-  type: vless
-  server: 103.108.229.143
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLym-tC804NMTTQ4E2QiqAi5xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_奥地利_146.70.81.130
-  type: vless
-  server: 146.70.81.130
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwYh4xQW2KvbRauX1af9gNEoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿拉伯联合酋长国_146.70.241.122
-  type: vless
-  server: 146.70.241.122
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxCM3wi4cGg_i6A83DeMuEcoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_38.165.230.194
-  type: vless
-  server: 38.165.230.194
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzsJSbfwNnKZR7QMhNPTkhNoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_奥地利_185.210.219.242
-  type: vless
-  server: 185.210.219.242
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxd8NGxoy4lfOHiONkSHKzqoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_38.165.230.210
-  type: vless
-  server: 38.165.230.210
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx5NRDYoOkeB7ob1U_lkd4NoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_38.165.230.130
-  type: vless
-  server: 38.165.230.130
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxY9-qxdjig9l0cEjN9kQpyxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_144.48.37.141
-  type: vless
-  server: 144.48.37.141
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxNyE5Gr6muTo1kVtUXhS-kxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿拉伯联合酋长国_5.42.206.146
-  type: vless
+- name: 🇦🇪 阿拉伯联合酋长国 5.42.206.146
+  type: http
   server: 5.42.206.146
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzjSCslpMAPHdtYaWvhGb40oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_奥地利_130.195.222.54
-  type: vless
-  server: 130.195.222.54
+  password: '1'
+- name: 🇦🇪 阿拉伯联合酋长国 146.70.241.122
+  type: http
+  server: 146.70.241.122
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyBboYOcL7DNWnfCWZx10TGoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_奥地利_146.70.28.2
-  type: vless
-  server: 146.70.28.2
+  password: '1'
+- name: 🇦🇷 阿根廷 38.165.230.130
+  type: http
+  server: 38.165.230.130
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzYCOKx7BPLyjhBO1uu3eRGoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_103.50.33.200
-  type: vless
-  server: 103.50.33.200
+  password: '1'
+- name: 🇦🇷 阿根廷 38.165.230.210
+  type: http
+  server: 38.165.230.210
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzLKTbw7M8dZTRkLpfBcAaeoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿根廷_103.50.33.107
-  type: vless
+  password: '1'
+- name: 🇦🇷 阿根廷 190.103.177.162
+  type: http
+  server: 190.103.177.162
+  port: 8081
+  password: '1'
+- name: 🇦🇷 阿根廷 38.165.230.218
+  type: http
+  server: 38.165.230.218
+  port: 8081
+  password: '1'
+- name: 🇦🇷 阿根廷 103.50.33.107
+  type: http
   server: 103.50.33.107
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxyoc3sVaA0AeA7hEdiYmJioXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_144.48.38.146
-  type: vless
-  server: 144.48.38.146
+  password: '1'
+- name: 🇦🇷 阿根廷 38.165.230.194
+  type: http
+  server: 38.165.230.194
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwgDxs6D0ynJEMPV4ebyuoUxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_139.99.209.67
-  type: vless
+  password: '1'
+- name: 🇦🇹 奥地利 130.195.222.54
+  type: http
+  server: 130.195.222.54
+  port: 8081
+  password: '1'
+- name: 🇦🇷 阿根廷 103.50.33.21
+  type: http
+  server: 103.50.33.21
+  port: 8081
+  password: '1'
+- name: 🇦🇹 奥地利 185.210.219.242
+  type: http
+  server: 185.210.219.242
+  port: 8081
+  password: '1'
+- name: 🇦🇷 阿根廷 103.50.33.200
+  type: http
+  server: 103.50.33.200
+  port: 8081
+  password: '1'
+- name: 🇦🇺 澳大利亚 144.48.38.138
+  type: http
+  server: 144.48.38.138
+  port: 8081
+  password: '1'
+- name: 🇦🇹 奥地利 146.70.146.22
+  type: http
+  server: 146.70.146.22
+  port: 8081
+  password: '1'
+- name: 🇦🇺 澳大利亚 144.48.37.141
+  type: http
+  server: 144.48.37.141
+  port: 8081
+  password: '1'
+- name: 🇦🇷 阿根廷 103.50.33.186
+  type: http
+  server: 103.50.33.186
+  port: 8081
+  password: '1'
+- name: 🇦🇹 奥地利 146.70.81.130
+  type: http
+  server: 146.70.81.130
+  port: 8081
+  password: '1'
+- name: 🇦🇹 奥地利 146.70.28.2
+  type: http
+  server: 146.70.28.2
+  port: 8081
+  password: '1'
+- name: 🇦🇺 澳大利亚 139.99.209.67
+  type: http
   server: 139.99.209.67
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLznmAS0au_B2fuIfzaApORKoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_45.125.247.13
-  type: vless
-  server: 45.125.247.13
+  password: '1'
+- name: 🇦🇺 澳大利亚 144.48.39.114
+  type: http
+  server: 144.48.39.114
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy5fDSeTBrEhYmaSbxY-5wNoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_比利时_45.128.133.202
-  type: vless
-  server: 45.128.133.202
+  password: '1'
+- name: 🇦🇺 澳大利亚 144.48.38.146
+  type: http
+  server: 144.48.38.146
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyaiUOLWDwd0qktmjCqhQ7VoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_比利时_185.232.21.18
-  type: vless
-  server: 185.232.21.18
+  password: '1'
+- name: 🇦🇺 澳大利亚 103.108.229.143
+  type: http
+  server: 103.108.229.143
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz6tgx7OJ2Tc_hISF-z12gUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_139.99.148.8
-  type: vless
-  server: 139.99.148.8
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxkolQbUPNm0kLbw_yzQ_C1oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_保加利亚_193.107.70.113
-  type: vless
-  server: 193.107.70.113
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyELwng7sz4pHxzd8M3uWfZoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_比利时_185.104.186.78
-  type: vless
-  server: 185.104.186.78
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwEjbWUiMmh5EpG_yBM81SkoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_144.48.37.111
-  type: vless
+  password: '1'
+- name: 🇦🇺 澳大利亚 144.48.37.111
+  type: http
   server: 144.48.37.111
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz1rAA8i8YJ-YV_uXkAHEZnoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_177.54.146.84
-  type: vless
-  server: 177.54.146.84
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx267dDOIcrUWlIfM7ePD8JoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_177.54.147.116
-  type: vless
-  server: 177.54.147.116
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxTno9pcL7gS1By34AAMXhBoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_182.54.232.23
-  type: vless
-  server: 182.54.232.23
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzhcgQSZhJog-CMRQNAltChoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_45.248.77.67
-  type: vless
-  server: 45.248.77.67
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLydikbIXhJbVe2vj99nnEb3oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_139.99.148.18
-  type: vless
-  server: 139.99.148.18
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx1TtxMqROz737BcStSRtJloXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_澳大利亚_144.48.38.35
-  type: vless
+  password: '1'
+- name: 🇦🇺 澳大利亚 144.48.38.35
+  type: http
   server: 144.48.38.35
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLytyS4kGgCIAqxM6ubp_0cEoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_比利时_146.70.176.222
-  type: vless
+  password: '1'
+- name: 🇦🇺 澳大利亚 139.99.148.18
+  type: http
+  server: 139.99.148.18
+  port: 8081
+  password: '1'
+- name: 🇧🇪 比利时 45.128.133.202
+  type: http
+  server: 45.128.133.202
+  port: 8081
+  password: '1'
+- name: 🇦🇺 澳大利亚 45.248.77.67
+  type: http
+  server: 45.248.77.67
+  port: 8081
+  password: '1'
+- name: 🇧🇪 比利时 185.104.186.78
+  type: http
+  server: 185.104.186.78
+  port: 8081
+  password: '1'
+- name: 🇧🇪 比利时 185.232.21.18
+  type: http
+  server: 185.232.21.18
+  port: 8081
+  password: '1'
+- name: 🇦🇺 澳大利亚 45.125.247.13
+  type: http
+  server: 45.125.247.13
+  port: 8081
+  password: '1'
+- name: 🇧🇪 比利时 146.70.176.222
+  type: http
   server: 146.70.176.222
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyOjIb8Yf9w7rZLXqDAz_PCoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_保加利亚_146.70.53.226
-  type: vless
-  server: 146.70.53.226
+  password: '1'
+- name: 🇦🇺 澳大利亚 182.54.232.23
+  type: http
+  server: 182.54.232.23
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxy2lvvW8tTJFnsqbzp6xFfoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_189.1.173.19
-  type: vless
-  server: 189.1.173.19
+  password: '1'
+- name: 🇦🇺 澳大利亚 139.99.148.8
+  type: http
+  server: 139.99.148.8
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyAJIoembs18hkSxQjh_2RooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_保加利亚_37.120.152.186
-  type: vless
+  password: '1'
+- name: 🇧🇬 保加利亚 193.107.70.113
+  type: http
+  server: 193.107.70.113
+  port: 8081
+  password: '1'
+- name: 🇧🇬 保加利亚 37.120.152.186
+  type: http
   server: 37.120.152.186
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLykQ-ETOpOb1n1MtkGhp1ctoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_177.54.157.16
-  type: vless
-  server: 177.54.157.16
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzfD8fER1CanIWOaT9_uQjToXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_140.174.187.19
-  type: vless
-  server: 140.174.187.19
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLytnfk2pOkPJ1MYWOkpvJFIoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_140.174.187.15
-  type: vless
-  server: 140.174.187.15
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwEiIBM2qSTS7ArJGC0_X5ooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_玻利维亚_190.186.42.50
-  type: vless
+  password: '1'
+- name: 🌍 玻利维亚 190.186.42.50
+  type: http
   server: 190.186.42.50
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwQcK94reXiXHNlhiSOMtGxoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_140.174.187.13
-  type: vless
+  password: '1'
+- name: 🇧🇷 巴西 177.54.147.116
+  type: http
+  server: 177.54.147.116
+  port: 8081
+  password: '1'
+- name: 🇧🇷 巴西 140.174.187.15
+  type: http
+  server: 140.174.187.15
+  port: 8081
+  password: '1'
+- name: 🇧🇷 巴西 189.1.173.19
+  type: http
+  server: 189.1.173.19
+  port: 8081
+  password: '1'
+- name: 🇧🇷 巴西 140.174.187.13
+  type: http
   server: 140.174.187.13
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwAA8wfqFVcETj4YbilvO9ZoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴西_140.174.187.17
-  type: vless
+  password: '1'
+- name: 🇧🇷 巴西 140.174.187.19
+  type: http
+  server: 140.174.187.19
+  port: 8081
+  password: '1'
+- name: 🇧🇬 保加利亚 146.70.53.226
+  type: http
+  server: 146.70.53.226
+  port: 8081
+  password: '1'
+- name: 🇧🇷 巴西 177.54.157.16
+  type: http
+  server: 177.54.157.16
+  port: 8081
+  password: '1'
+- name: 🇧🇷 巴西 177.54.146.84
+  type: http
+  server: 177.54.146.84
+  port: 8081
+  password: '1'
+- name: 🇧🇷 巴西 140.174.187.17
+  type: http
   server: 140.174.187.17
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx9SYb4NW6uhxw5zZh129DtoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_白俄罗斯_178.172.217.19
-  type: vless
-  server: 178.172.217.19
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLykv67oBGBbTpEntLwOcjb2oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_白俄罗斯_178.172.217.13
-  type: vless
+  password: '1'
+- name: 🌍 白俄罗斯 178.172.217.13
+  type: http
   server: 178.172.217.13
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyDT4N4N6apC_ouvw6_3tpdoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_198.57.27.37
-  type: vless
+  password: '1'
+- name: 🇨🇦 加拿大 198.57.27.37
+  type: http
   server: 198.57.27.37
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyzcl_1rj11vQpeUEj-sp8xoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_173.209.55.186
-  type: vless
+  password: '1'
+- name: 🇨🇦 加拿大 173.209.55.186
+  type: http
   server: 173.209.55.186
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyELD8heTZFvPK4uGPDcMyUxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_67.43.236.226
-  type: vless
-  server: 67.43.236.226
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxoQwMYO-yK85GOq6lLrx_wxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_104.245.146.82
-  type: vless
-  server: 104.245.146.82
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxoxwDg8xKbl21XmhR7WwTUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_67.43.236.2
-  type: vless
+  password: '1'
+- name: 🇨🇦 加拿大 67.43.236.2
+  type: http
   server: 67.43.236.2
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLynY56TNxmFwV6zslOv_ecExsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_瑞士_185.183.104.146
-  type: vless
-  server: 185.183.104.146
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz4wpZ2m_9VZ1iB_QLxO7eeoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_173.209.63.146
-  type: vless
+  password: '1'
+- name: 🇨🇦 加拿大 173.209.63.146
+  type: http
   server: 173.209.63.146
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLymZP0tQdol7cuRFAr58k5Lxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_135.84.180.228
-  type: vless
-  server: 135.84.180.228
+  password: '1'
+- name: 🌍 白俄罗斯 178.172.217.19
+  type: http
+  server: 178.172.217.19
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzDWNyytCUGgmxymetXT4I8oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_智利_200.63.100.12
-  type: vless
-  server: 200.63.100.12
+  password: '1'
+- name: 🇨🇦 加拿大 67.43.236.226
+  type: http
+  server: 67.43.236.226
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy114n2V6L7FRYcfpP5HvB1oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_192.99.5.161
-  type: vless
-  server: 192.99.5.161
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwxyX_KWnWDoU32sP2E1zcPoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_173.209.51.250
-  type: vless
-  server: 173.209.51.250
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyqCppuXZ0svBtOIoDFY0ExoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_科特迪瓦_102.220.17.118
-  type: vless
-  server: 102.220.17.118
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxuLMQLcYxmBoL6FYwNwv4WoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_智利_45.250.252.93
-  type: vless
-  server: 45.250.252.93
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx0VDgwLgKohb3cLfFztWGKoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_加拿大_173.209.49.50
-  type: vless
-  server: 173.209.49.50
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxARSkK6iq_KO1CwI-hUhzUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_哥斯达黎加_138.59.135.94
-  type: vless
-  server: 138.59.135.94
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz7XELjUH05dIEyEtwjVSVmoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_瑞士_179.43.172.58
-  type: vless
+  password: '1'
+- name: 🇨🇭 瑞士 179.43.172.58
+  type: http
   server: 179.43.172.58
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzn21MjI9NbrKOCWZdOZ_MHoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_中国_43.252.167.94
-  type: vless
+  password: '1'
+- name: 🇨🇦 加拿大 104.245.146.82
+  type: http
+  server: 104.245.146.82
+  port: 8081
+  password: '1'
+- name: 🇨🇦 加拿大 135.84.180.228
+  type: http
+  server: 135.84.180.228
+  port: 8081
+  password: '1'
+- name: 🇨🇦 加拿大 173.209.51.250
+  type: http
+  server: 173.209.51.250
+  port: 8081
+  password: '1'
+- name: 🇨🇦 加拿大 173.209.49.50
+  type: http
+  server: 173.209.49.50
+  port: 8081
+  password: '1'
+- name: 🌍 科特迪瓦 102.220.17.118
+  type: http
+  server: 102.220.17.118
+  port: 8081
+  password: '1'
+- name: 🇨🇱 智利 200.63.100.12
+  type: http
+  server: 200.63.100.12
+  port: 8081
+  password: '1'
+- name: 🇨🇦 加拿大 192.99.5.161
+  type: http
+  server: 192.99.5.161
+  port: 8081
+  password: '1'
+- name: 🌍 中国 43.252.167.94
+  type: http
   server: 43.252.167.94
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxjdB2Tcgx9DBfC0JlnnkQLoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_瑞士_146.70.135.14
-  type: vless
-  server: 146.70.135.14
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwidnarIDSzjZet5PSFkQ2ooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_智利_66.203.113.32
-  type: vless
-  server: 66.203.113.32
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwHX0-pRGQZI1PMYxHA2MwSoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_塞浦路斯_185.191.206.100
-  type: vless
-  server: 185.191.206.100
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxonn-ERlE1dz8PWu_ultuJoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_哥伦比亚_138.121.203.146
-  type: vless
-  server: 138.121.203.146
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzMxHtcdpWDMPYhM7wy8V7KoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_哥伦比亚_103.219.169.75
-  type: vless
+  password: '1'
+- name: 🇨🇴 哥伦比亚 103.219.169.75
+  type: http
   server: 103.219.169.75
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwlRR0M-LtO6IR95_TjMrqCoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_89.163.214.214
-  type: vless
-  server: 89.163.214.214
+  password: '1'
+- name: 🇨🇭 瑞士 185.183.104.146
+  type: http
+  server: 185.183.104.146
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy8SX16ykOBzYe1HUlUORq5xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_193.108.116.231
-  type: vless
-  server: 193.108.116.231
+  password: '1'
+- name: 🇨🇱 智利 66.203.113.32
+  type: http
+  server: 66.203.113.32
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzJdMKkxMxliBmEm6QaEYbsxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_哥斯达黎加_200.122.181.11
-  type: vless
-  server: 200.122.181.11
+  password: '1'
+- name: 🇨🇭 瑞士 146.70.135.14
+  type: http
+  server: 146.70.135.14
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxCnbTuVnpd30lcEp8CfnUloXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_中国_43.252.167.96
-  type: vless
+  password: '1'
+- name: 🌍 中国 43.252.167.96
+  type: http
   server: 43.252.167.96
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwdRvFQMj6QAuXXRfTZa02hoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_193.108.116.214
-  type: vless
-  server: 193.108.116.214
+  password: '1'
+- name: 🌍 哥斯达黎加 200.122.181.11
+  type: http
+  server: 200.122.181.11
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyW4k2eOeEmM4zsXlQrJU3Xxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_塞浦路斯_157.97.132.199
-  type: vless
+  password: '1'
+- name: 🌍 塞浦路斯 185.191.206.100
+  type: http
+  server: 185.191.206.100
+  port: 8081
+  password: '1'
+- name: 🌍 哥斯达黎加 138.59.135.94
+  type: http
+  server: 138.59.135.94
+  port: 8081
+  password: '1'
+- name: 🌍 塞浦路斯 157.97.132.199
+  type: http
   server: 157.97.132.199
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLylSwonw3W-4Iy2vWvyd1Y4oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_捷克_217.138.220.94
-  type: vless
-  server: 217.138.220.94
+  password: '1'
+- name: 🇨🇱 智利 45.250.252.93
+  type: http
+  server: 45.250.252.93
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyeXcOueluVT_qS-jcCmGAToXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_5.104.107.172
-  type: vless
-  server: 5.104.107.172
+  password: '1'
+- name: 🇩🇪 德国 89.163.214.214
+  type: http
+  server: 89.163.214.214
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxbu5_wvUgpBrupCJ9CCiCkxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_23.160.72.215
-  type: vless
-  server: 23.160.72.215
+  password: '1'
+- name: 🇨🇴 哥伦比亚 138.121.203.146
+  type: http
+  server: 138.121.203.146
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwNJxAqCYDqNYYivHYBqYbnxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_捷克_217.138.220.226
-  type: vless
-  server: 217.138.220.226
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwZoQnIY5lwoF38a-pJ--GFoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_51.38.118.252
-  type: vless
+  password: '1'
+- name: 🇩🇪 德国 51.38.118.252
+  type: http
   server: 51.38.118.252
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwpKRZDGwZM04rx4JcTjK86xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_193.108.116.243
-  type: vless
-  server: 193.108.116.243
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwpJRdsYzTEO65_ojoXVlgPxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_23.160.72.35
-  type: vless
-  server: 23.160.72.35
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxRqjbxf3BvzN0UcbCqEn10xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_捷克_217.138.220.50
-  type: vless
-  server: 217.138.220.50
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw4cG-WC6dwgyAxn6epIIcOoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_23.160.72.200
-  type: vless
+  password: '1'
+- name: 🇩🇪 德国 23.160.72.200
+  type: http
   server: 23.160.72.200
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwwPQnVgsYwgaEVrHnHxuR4xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_丹麦_82.103.131.250
-  type: vless
-  server: 82.103.131.250
+  password: '1'
+- name: 🇨🇿 捷克 217.138.220.94
+  type: http
+  server: 217.138.220.94
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzlBd0yJ5R5x9wLvokTYfyPoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_丹麦_146.70.42.202
-  type: vless
-  server: 146.70.42.202
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwFeTOx3VZtXIxz2qEhuf-noXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_23.160.72.58
-  type: vless
+  password: '1'
+- name: 🇩🇪 德国 23.160.72.58
+  type: http
   server: 23.160.72.58
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyHWw0LcR8GWrmCb0WVGvMnxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_5.104.107.99
-  type: vless
-  server: 5.104.107.99
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxlxwvnamfD7mVqaCn2_CWYoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_140.174.184.53
-  type: vless
-  server: 140.174.184.53
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxkBAJyWPA2SIaroLqsUROpoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_德国_51.38.121.188
-  type: vless
+  password: '1'
+- name: 🇩🇪 德国 51.38.121.188
+  type: http
   server: 51.38.121.188
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy-EzEtUBztRYPPpEOL7Et6xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_爱沙尼亚_95.153.31.102
-  type: vless
-  server: 95.153.31.102
+  password: '1'
+- name: 🇩🇪 德国 193.108.116.214
+  type: http
+  server: 193.108.116.214
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyCmhrjgL7l9vhtIjA0qrA-oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_爱沙尼亚_46.22.223.178
-  type: vless
-  server: 46.22.223.178
+  password: '1'
+- name: 🇩🇪 德国 193.108.116.243
+  type: http
+  server: 193.108.116.243
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw8__tsDc19fB16FYximLNsoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_埃及_188.214.122.162
-  type: vless
-  server: 188.214.122.162
+  password: '1'
+- name: 🇩🇪 德国 5.104.107.99
+  type: http
+  server: 5.104.107.99
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwYXU0qIb1_AW8wZ9t9RimPoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_丹麦_185.212.169.245
-  type: vless
-  server: 185.212.169.245
+  password: '1'
+- name: 🌍 丹麦 146.70.42.202
+  type: http
+  server: 146.70.42.202
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw6sDhtFreDl8zqqEskZ-D_oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_丹麦_89.45.7.250
-  type: vless
+  password: '1'
+- name: 🇨🇿 捷克 217.138.220.50
+  type: http
+  server: 217.138.220.50
+  port: 8081
+  password: '1'
+- name: 🌍 丹麦 82.103.131.250
+  type: http
+  server: 82.103.131.250
+  port: 8081
+  password: '1'
+- name: 🇨🇿 捷克 217.138.220.226
+  type: http
+  server: 217.138.220.226
+  port: 8081
+  password: '1'
+- name: 🌍 丹麦 89.45.7.250
+  type: http
   server: 89.45.7.250
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxgQPvLgLlqg5fD4p-WJLJ4oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_丹麦_193.36.116.234
-  type: vless
-  server: 193.36.116.234
+  password: '1'
+- name: 🌍 丹麦 185.212.169.245
+  type: http
+  server: 185.212.169.245
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzRwCJpC2qqqrsIzNQLdjJ6oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_埃及_188.214.122.18
-  type: vless
-  server: 188.214.122.18
+  password: '1'
+- name: 🇩🇪 德国 23.160.72.215
+  type: http
+  server: 23.160.72.215
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxhpLiQZtplQ4fty33CstJtoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_188.164.196.6
-  type: vless
-  server: 188.164.196.6
+  password: '1'
+- name: 🇩🇪 德国 193.108.116.231
+  type: http
+  server: 193.108.116.231
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzFV56_6OLVzE33dzyodPOzoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿尔及利亚_197.140.142.120
-  type: vless
-  server: 197.140.142.120
+  password: '1'
+- name: 🇩🇪 德国 23.160.72.35
+  type: http
+  server: 23.160.72.35
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwGONbNmck1Lun7BaopfYJCoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_阿尔及利亚_197.140.142.46
-  type: vless
+  password: '1'
+- name: 🌍 阿尔及利亚 197.140.142.46
+  type: http
   server: 197.140.142.46
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzmKQrXnRDFwXIy-bAZuD9IoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_89.38.226.94
-  type: vless
-  server: 89.38.226.94
+  password: '1'
+- name: 🌍 丹麦 193.36.116.234
+  type: http
+  server: 193.36.116.234
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzCImbyDQ_lAacxOiZ5S_nfoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_厄瓜多尔_179.49.5.119
-  type: vless
+  password: '1'
+- name: 🌍 厄瓜多尔 179.49.5.119
+  type: http
   server: 179.49.5.119
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwfD-5kFG6tWhhP9qJWGJpVoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_爱沙尼亚_95.153.32.34
-  type: vless
+  password: '1'
+- name: 🌍 阿尔及利亚 197.140.142.120
+  type: http
+  server: 197.140.142.120
+  port: 8081
+  password: '1'
+- name: 🇩🇪 德国 5.104.107.172
+  type: http
+  server: 5.104.107.172
+  port: 8081
+  password: '1'
+- name: 🌍 爱沙尼亚 95.153.31.102
+  type: http
+  server: 95.153.31.102
+  port: 8081
+  password: '1'
+- name: 🌍 爱沙尼亚 46.22.223.178
+  type: http
+  server: 46.22.223.178
+  port: 8081
+  password: '1'
+- name: 🌍 埃及 188.214.122.162
+  type: http
+  server: 188.214.122.162
+  port: 8081
+  password: '1'
+- name: 🇪🇸 西班牙 188.164.196.6
+  type: http
+  server: 188.164.196.6
+  port: 8081
+  password: '1'
+- name: 🇪🇸 西班牙 140.174.184.53
+  type: http
+  server: 140.174.184.53
+  port: 8081
+  password: '1'
+- name: 🌍 埃及 188.214.122.18
+  type: http
+  server: 188.214.122.18
+  port: 8081
+  password: '1'
+- name: 🌍 爱沙尼亚 95.153.32.34
+  type: http
   server: 95.153.32.34
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLziVpvZyHUUSuq8RgvdvMynoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_108.181.121.42
-  type: vless
-  server: 108.181.121.42
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw-PrBvXswkxg_kB4SXwKeUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_45.128.39.170
-  type: vless
-  server: 45.128.39.170
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwMqcE6VlwswRvgpWa-AEyHoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_芬兰_83.143.242.74
-  type: vless
-  server: 83.143.242.74
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw0AUGVoCAE93Af0ND_qKw5oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_45.152.183.146
-  type: vless
-  server: 45.152.183.146
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwHBtZhoqJoeNpVBHTi_QT4oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_西班牙_108.181.70.43
-  type: vless
+  password: '1'
+- name: 🇪🇸 西班牙 108.181.70.43
+  type: http
   server: 108.181.70.43
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw_vBxqGXV9iFgQxz_JeEaPoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.159.194.79
-  type: vless
-  server: 51.159.194.79
+  password: '1'
+- name: 🇪🇸 西班牙 89.38.226.94
+  type: http
+  server: 89.38.226.94
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxRM6AxHgNCazp3zK5gG0xwxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.159.97.197
-  type: vless
+  password: '1'
+- name: 🇪🇸 西班牙 108.181.121.42
+  type: http
+  server: 108.181.121.42
+  port: 8081
+  password: '1'
+- name: 🇪🇸 西班牙 45.128.39.170
+  type: http
+  server: 45.128.39.170
+  port: 8081
+  password: '1'
+- name: 🌍 芬兰 83.143.242.74
+  type: http
+  server: 83.143.242.74
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 51.159.97.197
+  type: http
   server: 51.159.97.197
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy44K5TpiPDFKgyc6Mmoy8dxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_163.172.54.132
-  type: vless
-  server: 163.172.54.132
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx69hU09SgBlRTZEIpST2xyxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.91.106.58
-  type: vless
-  server: 51.91.106.58
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwSGNNHZPmeEZph22wufLkDxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_163.172.54.211
-  type: vless
-  server: 163.172.54.211
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwsA6qAAFUiTjCy-uSONMH1xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_37.187.194.214
-  type: vless
-  server: 37.187.194.214
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzF3hCKzhoa24NZyJTeqHndxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_芬兰_194.34.134.21
-  type: vless
-  server: 194.34.134.21
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyaIZsNBnHfYfg-bM0HUyEdoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.159.213.92
-  type: vless
-  server: 51.159.213.92
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxUrwdnUsXQMvpBNu_k3UDkxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.159.220.137
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 51.159.220.137
+  type: http
   server: 51.159.220.137
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz7nw3kbq49xFYpM7uNNa1-oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_139.64.167.210
-  type: vless
-  server: 139.64.167.210
+  password: '1'
+- name: 🇫🇷 法国 51.159.194.79
+  type: http
+  server: 51.159.194.79
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzKSwqgmyEq3wC0uHhOvNvOxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_139.64.167.194
-  type: vless
-  server: 139.64.167.194
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzvR9yMRdtchlf8k4Fgo492xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_147.135.130.224
-  type: vless
-  server: 147.135.130.224
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyJkAkGNR2v9zX4my9YdfO1xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.158.54.41
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 51.158.54.41
+  type: http
   server: 51.158.54.41
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwOrCn0mv7LculLYhshefoKxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_87.119.195.251
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 147.135.130.224
+  type: http
+  server: 147.135.130.224
+  port: 8081
+  password: '1'
+- name: 🌍 芬兰 194.34.134.21
+  type: http
+  server: 194.34.134.21
+  port: 8081
+  password: '1'
+- name: 🇪🇸 西班牙 45.152.183.146
+  type: http
+  server: 45.152.183.146
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 87.119.195.251
+  type: http
   server: 87.119.195.251
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxjlR9zaBR3ejSoKaJeD0KTxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.159.211.164
-  type: vless
-  server: 51.159.211.164
+  password: '1'
+- name: 🇫🇷 法国 51.91.106.58
+  type: http
+  server: 51.91.106.58
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxJr2D29BCNpM_oXKU-GsE8xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.159.194.50
-  type: vless
-  server: 51.159.194.50
+  password: '1'
+- name: 🇫🇷 法国 37.187.194.214
+  type: http
+  server: 37.187.194.214
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxWooBB3QgjS6kP7ibgyDeXoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_163.172.33.17
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 51.159.213.92
+  type: http
+  server: 51.159.213.92
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 163.172.33.17
+  type: http
   server: 163.172.33.17
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLykFZYNHJ7HljoVQYRllPWdoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_79.137.101.250
-  type: vless
-  server: 79.137.101.250
+  password: '1'
+- name: 🇫🇷 法国 163.172.54.132
+  type: http
+  server: 163.172.54.132
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxhwVqnHW4xzq65vCqQg4jQxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_188.241.83.138
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 163.172.54.211
+  type: http
+  server: 163.172.54.211
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 139.64.167.210
+  type: http
+  server: 139.64.167.210
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 188.241.83.138
+  type: http
   server: 188.241.83.138
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLykkCMY64nlTnwU7q3o62f7oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.158.62.102
-  type: vless
-  server: 51.158.62.102
+  password: '1'
+- name: 🇫🇷 法国 79.137.101.250
+  type: http
+  server: 79.137.101.250
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzahu9m-Vxn4Kud1-4Wfr3VoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.158.62.74
-  type: vless
-  server: 51.158.62.74
+  password: '1'
+- name: 🇫🇷 法国 51.159.211.164
+  type: http
+  server: 51.159.211.164
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwencjiG-sdqmE2qdPkHgtroXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_185.245.80.156
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 139.64.167.194
+  type: http
+  server: 139.64.167.194
+  port: 8081
+  password: '1'
+- name: 🇬🇧 英国 185.245.80.156
+  type: http
   server: 185.245.80.156
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxPIQ4vyR7GkIckAfKZgPn0oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_62.210.211.131
-  type: vless
-  server: 62.210.211.131
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzypbbwWWjV37xi4ME9ZF_roXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_法国_51.158.62.224
-  type: vless
-  server: 51.158.62.224
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzqkn78c15IiIwipHZftQCdoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_145.239.6.2
-  type: vless
-  server: 145.239.6.2
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwT5yEhbil6-XADsNTlsS6LoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_78.129.229.29
-  type: vless
-  server: 78.129.229.29
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzOhhwhRSo4lhe4yjm7xgnmxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_185.174.110.2
-  type: vless
-  server: 185.174.110.2
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx2FzUBajamTWsEDvk6u6mjoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_88.150.230.5
-  type: vless
-  server: 88.150.230.5
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLysmJAsBBFssNDzpTtwTEBHoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_5.180.211.94
-  type: vless
-  server: 5.180.211.94
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz2sa1EgQm6JD7o8MGqAeXwoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_51.89.153.211
-  type: vless
-  server: 51.89.153.211
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwIO81qhIMp_4lIquuVgEWQxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_212.84.160.58
-  type: vless
-  server: 212.84.160.58
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzQ2gI1SEkMSb16yeXIUBnLoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_185.145.201.31
-  type: vless
-  server: 185.145.201.31
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz9Q6rhrzMXbcPcexcO6SyBxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_51.89.173.123
-  type: vless
+  password: '1'
+- name: 🇬🇧 英国 51.89.173.123
+  type: http
   server: 51.89.173.123
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz9lvlNcCdK5pz-hHz-n4bGxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_172.99.190.183
-  type: vless
+  password: '1'
+- name: 🇫🇷 法国 51.158.62.102
+  type: http
+  server: 51.158.62.102
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 51.159.194.50
+  type: http
+  server: 51.159.194.50
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 62.210.211.131
+  type: http
+  server: 62.210.211.131
+  port: 8081
+  password: '1'
+- name: 🇫🇷 法国 51.158.62.74
+  type: http
+  server: 51.158.62.74
+  port: 8081
+  password: '1'
+- name: 🇬🇧 英国 78.129.229.29
+  type: http
+  server: 78.129.229.29
+  port: 8081
+  password: '1'
+- name: 🇬🇧 英国 172.99.190.183
+  type: http
   server: 172.99.190.183
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzJcD-iWABQo9OBNOFhHmD_oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_格鲁吉亚_188.93.90.66
-  type: vless
-  server: 188.93.90.66
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz0ZENu3ra9hbZBoXGdflkUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_希腊_95.129.46.100
-  type: vless
-  server: 95.129.46.100
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzOn5ne5hFB4QyyFJ8tGSMHoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_139.28.176.106
-  type: vless
-  server: 139.28.176.106
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzuO-9yAwcNExlnPiDwzGayoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_38.114.120.157
-  type: vless
+  password: '1'
+- name: 🇬🇧 英国 38.114.120.157
+  type: http
   server: 38.114.120.157
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzZynaC4vU5Bf7WoXl-aCjHxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_希腊_93.174.121.131
-  type: vless
-  server: 93.174.121.131
+  password: '1'
+- name: 🇬🇧 英国 185.174.110.2
+  type: http
+  server: 185.174.110.2
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzkez61oAAmRp5xPPqO7FmPoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_危地马拉_170.80.111.119
-  type: vless
-  server: 170.80.111.119
+  password: '1'
+- name: 🇬🇧 英国 185.145.201.31
+  type: http
+  server: 185.145.201.31
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyXZtgJYnW_3FCQcLIWIdQ1oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_香港_43.252.166.214
-  type: vless
-  server: 43.252.166.214
+  password: '1'
+- name: 🇫🇷 法国 51.158.62.224
+  type: http
+  server: 51.158.62.224
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwo96kXS5Tsf-nH3otzOEp1oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_英国_172.99.190.215
-  type: vless
+  password: '1'
+- name: 🇬🇧 英国 51.89.153.211
+  type: http
+  server: 51.89.153.211
+  port: 8081
+  password: '1'
+- name: 🇬🇧 英国 5.180.211.94
+  type: http
+  server: 5.180.211.94
+  port: 8081
+  password: '1'
+- name: 🇬🇧 英国 139.28.176.106
+  type: http
+  server: 139.28.176.106
+  port: 8081
+  password: '1'
+- name: 🇬🇧 英国 172.99.190.215
+  type: http
   server: 172.99.190.215
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzSJ9SYeAUvdEb_f0RXlY23oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_香港_169.150.222.197
-  type: vless
-  server: 169.150.222.197
+  password: '1'
+- name: 🇬🇧 英国 145.239.6.2
+  type: http
+  server: 145.239.6.2
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwi_HC6SFGgC9jG-w3vIWxIoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_格鲁吉亚_188.93.91.2
-  type: vless
-  server: 188.93.91.2
+  password: '1'
+- name: 🇬🇧 英国 88.150.230.5
+  type: http
+  server: 88.150.230.5
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxKGCngCg_u-e8ZQAG4rbd7oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_匈牙利_185.104.187.130
-  type: vless
-  server: 185.104.187.130
+  password: '1'
+- name: 🌍 格鲁吉亚 188.93.90.66
+  type: http
+  server: 188.93.90.66
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxc8QdUOKWipjGU9WakCEHtoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_克罗地亚_178.218.162.117
-  type: vless
-  server: 178.218.162.117
+  password: '1'
+- name: 🌍 危地马拉 170.80.111.119
+  type: http
+  server: 170.80.111.119
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwFh3pY4-FlzO-kZpzodPOVoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度尼西亚_45.64.98.114
-  type: vless
-  server: 45.64.98.114
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx2AI4CaVG1tQFt1dgJkWRBoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_爱尔兰_188.241.178.86
-  type: vless
-  server: 188.241.178.86
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyweP3fL-wmUAozWL9DVZNcoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_以色列_182.54.236.194
-  type: vless
-  server: 182.54.236.194
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz1TKc3jUHNVVePqJdcymyroXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度_148.113.0.104
-  type: vless
-  server: 148.113.0.104
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy85uApr2koL_nn6h1z8WWGoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_洪都拉斯_190.92.9.46
-  type: vless
+  password: '1'
+- name: 🌍 洪都拉斯 190.92.9.46
+  type: http
   server: 190.92.9.46
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz_LTQ8Uzmt0LVzgN1qw07boXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_克罗地亚_178.218.162.114
-  type: vless
-  server: 178.218.162.114
+  password: '1'
+- name: 🇬🇧 英国 212.84.160.58
+  type: http
+  server: 212.84.160.58
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxq0zXXBLkxSOGl_-c6IG5_oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_匈牙利_185.104.187.234
-  type: vless
-  server: 185.104.187.234
+  password: '1'
+- name: 🌍 希腊 95.129.46.100
+  type: http
+  server: 95.129.46.100
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwu4wpZd3CehOCB5psXS3ZEoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_以色列_185.253.73.216
-  type: vless
-  server: 185.253.73.216
+  password: '1'
+- name: 🌍 希腊 93.174.121.131
+  type: http
+  server: 93.174.121.131
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwSeypuJpxJNr-O-IoaEymloXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度_148.113.47.86
-  type: vless
-  server: 148.113.47.86
+  password: '1'
+- name: 🌍 格鲁吉亚 188.93.91.2
+  type: http
+  server: 188.93.91.2
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxpzDYIN6BIIy1x3mJ3YVfQoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_冰岛_37.235.49.103
-  type: vless
-  server: 37.235.49.103
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxiFcV47tb6SDvoXONvnw2coXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度_148.113.47.56
-  type: vless
-  server: 148.113.47.56
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz7n5RmvHc8jKkkY8AAanyhoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度尼西亚_202.162.204.214
-  type: vless
-  server: 202.162.204.214
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxOqDht5GUqFhVLoHjkG7cloXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_冰岛_37.235.49.61
-  type: vless
-  server: 37.235.49.61
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwxg1-ZXTDGFLyP_pZPzW4WoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度尼西亚_202.162.204.223
-  type: vless
-  server: 202.162.204.223
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwj6kIAKy4D897ll9TQ1yH9oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_匈牙利_91.219.236.190
-  type: vless
+  password: '1'
+- name: 🇭🇺 匈牙利 91.219.236.190
+  type: http
   server: 91.219.236.190
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyOhJWuxJDp2cHA0TcLzUJLoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_爱尔兰_185.252.222.170
-  type: vless
+  password: '1'
+- name: 🇭🇰 香港 169.150.222.197
+  type: http
+  server: 169.150.222.197
+  port: 8081
+  password: '1'
+- name: 🇭🇺 匈牙利 185.104.187.234
+  type: http
+  server: 185.104.187.234
+  port: 8081
+  password: '1'
+- name: 🇭🇺 匈牙利 185.104.187.130
+  type: http
+  server: 185.104.187.130
+  port: 8081
+  password: '1'
+- name: 🌍 克罗地亚 178.218.162.117
+  type: http
+  server: 178.218.162.117
+  port: 8081
+  password: '1'
+- name: 🇮🇩 印度尼西亚 202.162.204.223
+  type: http
+  server: 202.162.204.223
+  port: 8081
+  password: '1'
+- name: 🌍 克罗地亚 178.218.162.114
+  type: http
+  server: 178.218.162.114
+  port: 8081
+  password: '1'
+- name: 🇭🇰 香港 43.252.166.214
+  type: http
+  server: 43.252.166.214
+  port: 8081
+  password: '1'
+- name: 🇮🇪 爱尔兰 188.241.178.86
+  type: http
+  server: 188.241.178.86
+  port: 8081
+  password: '1'
+- name: 🇮🇪 爱尔兰 185.252.222.170
+  type: http
   server: 185.252.222.170
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy_FKsDlSOtvY-leLaLt-bdoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_意大利_37.120.135.218
-  type: vless
-  server: 37.120.135.218
+  password: '1'
+- name: 🇮🇩 印度尼西亚 45.64.98.114
+  type: http
+  server: 45.64.98.114
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzFLabYDHz0FUbgyFhVdDAjoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度_148.113.8.93
-  type: vless
-  server: 148.113.8.93
+  password: '1'
+- name: 🇮🇩 印度尼西亚 202.162.204.214
+  type: http
+  server: 202.162.204.214
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzItPVKmKmXhHS1YW4oH9RSoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_印度_148.113.0.105
-  type: vless
-  server: 148.113.0.105
+  password: '1'
+- name: 🌍 以色列 185.253.73.216
+  type: http
+  server: 185.253.73.216
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzOPxS7kxW7_w3S-fIDf_9SoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_以色列_182.54.236.193
-  type: vless
+  password: '1'
+- name: 🌍 以色列 182.54.236.193
+  type: http
   server: 182.54.236.193
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwaZ4ARP6qerblu1JQkZdDroXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_意大利_91.193.5.182
-  type: vless
-  server: 91.193.5.182
+  password: '1'
+- name: 🇮🇳 印度 148.113.0.105
+  type: http
+  server: 148.113.0.105
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy2GmmT-4rqrASMqEFPr-T6oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_约旦_82.212.77.242
-  type: vless
-  server: 82.212.77.242
+  password: '1'
+- name: 🌍 以色列 182.54.236.194
+  type: http
+  server: 182.54.236.194
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLysrnTuNYDxa3r3T2xLqp_SoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_意大利_95.141.37.244
-  type: vless
-  server: 95.141.37.244
+  password: '1'
+- name: 🇮🇳 印度 148.113.8.93
+  type: http
+  server: 148.113.8.93
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxwGX9R1be1WDlUgZ2mXg4eoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_意大利_158.58.173.73
-  type: vless
-  server: 158.58.173.73
+  password: '1'
+- name: 🇮🇳 印度 148.113.47.56
+  type: http
+  server: 148.113.47.56
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzah0OxgmW0ZvYA8G1YtTiCoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_约旦_82.212.77.244
-  type: vless
-  server: 82.212.77.244
+  password: '1'
+- name: 🌍 冰岛 37.235.49.61
+  type: http
+  server: 37.235.49.61
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwiP3AUnEwlEUfnEmiPCsSIoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_180.149.230.169
-  type: vless
-  server: 180.149.230.169
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzOqHNuPoOQTtjn0KU-56RSoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_103.108.230.52
-  type: vless
-  server: 103.108.230.52
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw7JSwzYL5-Dd7Jz1w6-hKRoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_103.108.230.31
-  type: vless
-  server: 103.108.230.31
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyAf8V00Tsw3tViUL0Ecx17oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_103.108.230.50
-  type: vless
-  server: 103.108.230.50
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxOqs1sKSIceIh2MzM0gialoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_23.81.44.10
-  type: vless
-  server: 23.81.44.10
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxgvym_hXnaQylhgZ7wOZNQoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_103.108.230.51
-  type: vless
-  server: 103.108.230.51
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzle0s2bjzoXiOqwjPh0N4ioXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_肯尼亚_102.68.86.97
-  type: vless
-  server: 102.68.86.97
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyd9wbiELv-_KoFnqlV-4JboXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_180.149.230.241
-  type: vless
-  server: 180.149.230.241
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyTNfiGYTNwvBz2vKemDIH_oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_约旦_82.212.103.6
-  type: vless
-  server: 82.212.103.6
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxgHq_1sSbgfbXr3pf5_VrYoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_意大利_185.213.21.111
-  type: vless
+  password: '1'
+- name: 🇮🇹 意大利 185.213.21.111
+  type: http
   server: 185.213.21.111
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxF4GlihvCGAeL4hFYGzxCDoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_韩国_79.110.55.34
-  type: vless
-  server: 79.110.55.34
+  password: '1'
+- name: 🇮🇳 印度 148.113.47.86
+  type: http
+  server: 148.113.47.86
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxvrWVoe9Ck-IrwqQgiOxbToXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_哈萨克斯坦_185.120.77.104
-  type: vless
-  server: 185.120.77.104
+  password: '1'
+- name: 🇮🇳 印度 148.113.0.104
+  type: http
+  server: 148.113.0.104
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy-wvfEFycVBrWTkz9CCgNBoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_韩国_140.174.179.129
-  type: vless
-  server: 140.174.179.129
+  password: '1'
+- name: 🇮🇹 意大利 91.193.5.182
+  type: http
+  server: 91.193.5.182
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxvIfSvifY3JZpv620L85RvoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_日本_5.180.44.194
-  type: vless
+  password: '1'
+- name: 🇮🇹 意大利 95.141.37.244
+  type: http
+  server: 95.141.37.244
+  port: 8081
+  password: '1'
+- name: 🇯🇵 日本 180.149.230.169
+  type: http
+  server: 180.149.230.169
+  port: 8081
+  password: '1'
+- name: 🌍 约旦 82.212.77.242
+  type: http
+  server: 82.212.77.242
+  port: 8081
+  password: '1'
+- name: 🌍 约旦 82.212.103.6
+  type: http
+  server: 82.212.103.6
+  port: 8081
+  password: '1'
+- name: 🇯🇵 日本 5.180.44.194
+  type: http
   server: 5.180.44.194
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzO5-ygwtbXLYT-pQ7l2YpYoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_科威特_38.54.124.170
-  type: vless
-  server: 38.54.124.170
+  password: '1'
+- name: 🌍 约旦 82.212.77.244
+  type: http
+  server: 82.212.77.244
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzkZmb2Au2JUhQDlblQ_MSmoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_立陶宛_185.64.104.88
-  type: vless
-  server: 185.64.104.88
+  password: '1'
+- name: 🇯🇵 日本 23.81.44.10
+  type: http
+  server: 23.81.44.10
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLy-if8nBfqcgyrPwW9bEd8RoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_吉尔吉斯斯坦_91.213.233.111
-  type: vless
+  password: '1'
+- name: 🇯🇵 日本 103.108.230.50
+  type: http
+  server: 103.108.230.50
+  port: 8081
+  password: '1'
+- name: 🌍 冰岛 37.235.49.103
+  type: http
+  server: 37.235.49.103
+  port: 8081
+  password: '1'
+- name: 🇯🇵 日本 180.149.230.241
+  type: http
+  server: 180.149.230.241
+  port: 8081
+  password: '1'
+- name: 🌍 肯尼亚 102.68.86.97
+  type: http
+  server: 102.68.86.97
+  port: 8081
+  password: '1'
+- name: 🇯🇵 日本 103.108.230.52
+  type: http
+  server: 103.108.230.52
+  port: 8081
+  password: '1'
+- name: 🇯🇵 日本 103.108.230.31
+  type: http
+  server: 103.108.230.31
+  port: 8081
+  password: '1'
+- name: 🇮🇹 意大利 158.58.173.73
+  type: http
+  server: 158.58.173.73
+  port: 8081
+  password: '1'
+- name: 🇮🇹 意大利 37.120.135.218
+  type: http
+  server: 37.120.135.218
+  port: 8081
+  password: '1'
+- name: 🇯🇵 日本 103.108.230.51
+  type: http
+  server: 103.108.230.51
+  port: 8081
+  password: '1'
+- name: 🇰🇷 韩国 79.110.55.34
+  type: http
+  server: 79.110.55.34
+  port: 8081
+  password: '1'
+- name: 🌍 吉尔吉斯斯坦 91.213.233.111
+  type: http
   server: 91.213.233.111
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyK4TEJg6qC5FL31w37j2VzoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_吉尔吉斯斯坦_91.213.233.176
-  type: vless
-  server: 91.213.233.176
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzos_GTw9kBuwSgT6Kut3KRoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_卢森堡_23.109.136.82
-  type: vless
-  server: 23.109.136.82
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyCA3enBC-7it78r_w_USvvoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_卢森堡_23.109.136.154
-  type: vless
-  server: 23.109.136.154
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxnV527OnXjRDB3dHZ2q0VuoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_立陶宛_85.206.170.244
-  type: vless
-  server: 85.206.170.244
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzGjVq1B-tH5I6mcKCreovIoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_卢森堡_23.109.136.54
-  type: vless
-  server: 23.109.136.54
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyVGxOsvAEgFAs-UEbCQVsEoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_拉脱维亚_109.248.149.173
-  type: vless
-  server: 109.248.149.173
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzXHcMwQ7ieyvt9m3Tw653woXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_韩国_61.255.174.11
-  type: vless
+  password: '1'
+- name: 🇰🇷 韩国 61.255.174.11
+  type: http
   server: 61.255.174.11
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxzeKvELP_GgzbtpQ65g0KvoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_蒙古_43.231.113.84
-  type: vless
-  server: 43.231.113.84
+  password: '1'
+- name: 🌍 吉尔吉斯斯坦 91.213.233.176
+  type: http
+  server: 91.213.233.176
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyKwxwvLViZHhbMpj3Pk3I8oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_立陶宛_185.64.104.96
-  type: vless
+  password: '1'
+- name: 🌍 立陶宛 185.64.104.96
+  type: http
   server: 185.64.104.96
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyJig-rwFp__pOHjSqvo5jmoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_摩洛哥_154.70.207.190
-  type: vless
+  password: '1'
+- name: 🇰🇷 韩国 140.174.179.129
+  type: http
+  server: 140.174.179.129
+  port: 8081
+  password: '1'
+- name: 🇰🇿 哈萨克斯坦 185.120.77.104
+  type: http
+  server: 185.120.77.104
+  port: 8081
+  password: '1'
+- name: 🌍 科威特 38.54.124.170
+  type: http
+  server: 38.54.124.170
+  port: 8081
+  password: '1'
+- name: 🌍 立陶宛 185.64.104.88
+  type: http
+  server: 185.64.104.88
+  port: 8081
+  password: '1'
+- name: 🌍 立陶宛 85.206.170.244
+  type: http
+  server: 85.206.170.244
+  port: 8081
+  password: '1'
+- name: 🌍 摩洛哥 154.70.207.190
+  type: http
   server: 154.70.207.190
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzjBaccXXyHy4bNqbByb5BEoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_卢森堡_23.109.137.14
-  type: vless
+  password: '1'
+- name: 🌍 拉脱维亚 109.248.149.173
+  type: http
+  server: 109.248.149.173
+  port: 8081
+  password: '1'
+- name: 🌍 卢森堡 23.109.136.154
+  type: http
+  server: 23.109.136.154
+  port: 8081
+  password: '1'
+- name: 🌍 卢森堡 23.109.137.14
+  type: http
   server: 23.109.137.14
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxLx5aG_FLEALm_WhJgGKnwoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_马耳他_171.22.254.144
-  type: vless
-  server: 171.22.254.144
+  password: '1'
+- name: 🌍 卢森堡 23.109.136.82
+  type: http
+  server: 23.109.136.82
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzqfQkGHl6pdmKJky_sDi9voXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_拉脱维亚_84.38.134.139
-  type: vless
+  password: '1'
+- name: 🌍 拉脱维亚 84.38.134.139
+  type: http
   server: 84.38.134.139
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyxRSgrHmvKEP7tXZ9YCYz4oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_墨西哥_201.150.33.172
-  type: vless
+  password: '1'
+- name: 🇲🇽 墨西哥 201.150.33.172
+  type: http
   server: 201.150.33.172
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw9Hwab2gp0DK7QNwEKuI6xoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_马来西亚_111.90.159.52
-  type: vless
-  server: 111.90.159.52
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxfkpoOYYZbchEJcfJQb7kuoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_马来西亚_111.90.141.223
-  type: vless
-  server: 111.90.141.223
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxQR-_kPFXrnLuBxe47ud1voXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_蒙古_43.231.114.178
-  type: vless
-  server: 43.231.114.178
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzmlrPXrNBevcs4jeoV7wIwoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_摩洛哥_154.70.207.146
-  type: vless
+  password: '1'
+- name: 🌍 摩洛哥 154.70.207.146
+  type: http
   server: 154.70.207.146
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx8mHu_NBS3rqFjo3YUa61toXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_马来西亚_202.87.221.113
-  type: vless
-  server: 202.87.221.113
+  password: '1'
+- name: 🌍 蒙古 43.231.113.84
+  type: http
+  server: 43.231.113.84
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz2RgcY0BjF1oDx6B-hRuJioXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_尼日利亚_169.255.57.58
-  type: vless
-  server: 169.255.57.58
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwvWBMxwe7v6xgiP7g5RMOYoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_尼加拉瓜_131.196.35.40
-  type: vless
-  server: 131.196.35.40
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLybekiyllEMYBOtOpM3JctCoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_5.79.121.55
-  type: vless
-  server: 5.79.121.55
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyRQx3Yr3evW14vmqEvjIivoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_马耳他_171.22.254.19
-  type: vless
-  server: 171.22.254.19
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw1MgmRP8dzyp7gnYJu8jRUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_墨西哥_201.150.35.76
-  type: vless
+  password: '1'
+- name: 🇲🇽 墨西哥 201.150.35.76
+  type: http
   server: 201.150.35.76
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyaYof0nNljJCq2n9XevR_WoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_51.158.252.46
-  type: vless
-  server: 51.158.252.46
+  password: '1'
+- name: 🌍 马耳他 171.22.254.144
+  type: http
+  server: 171.22.254.144
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxcOc_4BOOO3in6M4mIti8boXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_墨西哥_201.150.33.188
-  type: vless
-  server: 201.150.33.188
+  password: '1'
+- name: 🇲🇾 马来西亚 111.90.141.223
+  type: http
+  server: 111.90.141.223
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx5sMGoxS0GIyLFxHXma8gYoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_51.15.16.243
-  type: vless
-  server: 51.15.16.243
+  password: '1'
+- name: 🌍 卢森堡 23.109.136.54
+  type: http
+  server: 23.109.136.54
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxsTq5_1_jWJG_NdUcDZ9FVxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_185.121.94.132
-  type: vless
-  server: 185.121.94.132
+  password: '1'
+- name: 🇲🇾 马来西亚 202.87.221.113
+  type: http
+  server: 202.87.221.113
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzslXrCg3X15ZJ9Wh9eUdUboXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_挪威_217.170.205.150
-  type: vless
-  server: 217.170.205.150
+  password: '1'
+- name: 🌍 马耳他 171.22.254.19
+  type: http
+  server: 171.22.254.19
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzvKwrEHzbcGlLOxiup2kVioXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_185.221.219.189
-  type: vless
-  server: 185.221.219.189
+  password: '1'
+- name: 🌍 尼日利亚 169.255.57.58
+  type: http
+  server: 169.255.57.58
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx-TfDZQbiMruBbaH0kK_WNoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_51.15.16.66
-  type: vless
+  password: '1'
+- name: 🇳🇱 荷兰 51.15.16.66
+  type: http
   server: 51.15.16.66
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwTAAEEY1baRY9V6CGPOHEqoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新西兰_180.149.231.76
-  type: vless
-  server: 180.149.231.76
+  password: '1'
+- name: 🌍 尼加拉瓜 131.196.35.40
+  type: http
+  server: 131.196.35.40
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzJf5DQDjDBMxQT3QnzdAjOoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴拿马_200.74.244.7
-  type: vless
-  server: 200.74.244.7
+  password: '1'
+- name: 🇳🇱 荷兰 51.15.16.243
+  type: http
+  server: 51.15.16.243
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxmshG6u6Z8dcfJcJbeYGjLoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_荷兰_185.121.94.131
-  type: vless
-  server: 185.121.94.131
+  password: '1'
+- name: 🇳🇱 荷兰 51.158.252.46
+  type: http
+  server: 51.158.252.46
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxtFuU072wSUDPnRXkAFDLpoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_秘鲁_190.120.229.196
-  type: vless
-  server: 190.120.229.196
+  password: '1'
+- name: 🇳🇱 荷兰 185.221.219.189
+  type: http
+  server: 185.221.219.189
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzQmUCvmJ4b32bL7u2TIkZToXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_挪威_185.181.61.141
-  type: vless
-  server: 185.181.61.141
+  password: '1'
+- name: 🇲🇽 墨西哥 201.150.33.188
+  type: http
+  server: 201.150.33.188
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwZwyFZxMHQ76OKliDHdX-ooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_挪威_185.90.61.23
-  type: vless
+  password: '1'
+- name: 🇲🇾 马来西亚 111.90.159.52
+  type: http
+  server: 111.90.159.52
+  port: 8081
+  password: '1'
+- name: 🌍 挪威 185.90.61.23
+  type: http
   server: 185.90.61.23
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyvpn4LOuJMtyHk6Lh2pNweoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_菲律宾_103.103.0.21
-  type: vless
-  server: 103.103.0.21
+  password: '1'
+- name: 🇳🇱 荷兰 185.121.94.132
+  type: http
+  server: 185.121.94.132
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwBhC2QK3b7BbUBzDhZioyooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_挪威_185.90.61.217
-  type: vless
+  password: '1'
+- name: 🌍 挪威 217.170.205.150
+  type: http
+  server: 217.170.205.150
+  port: 8081
+  password: '1'
+- name: 🌍 挪威 185.90.61.217
+  type: http
   server: 185.90.61.217
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzvOfmg7-89Mm4qQES4MBO3oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新西兰_103.75.11.41
-  type: vless
-  server: 103.75.11.41
+  password: '1'
+- name: 🌍 蒙古 43.231.114.178
+  type: http
+  server: 43.231.114.178
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwBK33ur6Ee9ASRUbgr4NtOoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新西兰_180.149.231.103
-  type: vless
-  server: 180.149.231.103
+  password: '1'
+- name: 🇳🇱 荷兰 5.79.121.55
+  type: http
+  server: 5.79.121.55
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwDvKNIXvn3Pbhb9EV2kX1UoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴基斯坦_103.152.255.235
-  type: vless
-  server: 103.152.255.235
+  password: '1'
+- name: 🇳🇱 荷兰 185.121.94.131
+  type: http
+  server: 185.121.94.131
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyu7c7V2FDqGqMskLEgp-O3oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新西兰_180.149.231.99
-  type: vless
+  password: '1'
+- name: 🌍 新西兰 180.149.231.99
+  type: http
   server: 180.149.231.99
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx9FBQ0RPWhq--zqe-jtQG7oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新西兰_180.149.231.71
-  type: vless
+  password: '1'
+- name: 🌍 挪威 185.181.61.141
+  type: http
+  server: 185.181.61.141
+  port: 8081
+  password: '1'
+- name: 🌍 新西兰 180.149.231.103
+  type: http
+  server: 180.149.231.103
+  port: 8081
+  password: '1'
+- name: 🌍 新西兰 180.149.231.76
+  type: http
+  server: 180.149.231.76
+  port: 8081
+  password: '1'
+- name: 🌍 新西兰 180.149.231.71
+  type: http
   server: 180.149.231.71
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxqViIwfgbwUJps-PM0x1lnoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_秘鲁_138.186.143.50
-  type: vless
-  server: 138.186.143.50
+  password: '1'
+- name: 🌍 巴拿马 200.74.244.7
+  type: http
+  server: 200.74.244.7
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyajANJ2D7gCLT6b5I7pV3eoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴拿马_190.97.163.17
-  type: vless
-  server: 190.97.163.17
+  password: '1'
+- name: 🌍 新西兰 103.75.11.41
+  type: http
+  server: 103.75.11.41
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxU4zt8CI2fHnhZXc3uimaVoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_菲律宾_112.199.95.186
-  type: vless
-  server: 112.199.95.186
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzbSLNRloQeobXJApqLO49joXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_波兰_54.36.174.39
-  type: vless
+  password: '1'
+- name: 🇵🇱 波兰 54.36.174.39
+  type: http
   server: 54.36.174.39
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwjkXkKJLjFEVwF_cMKXuy0oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_波多黎各_38.158.220.26
-  type: vless
-  server: 38.158.220.26
+  password: '1'
+- name: 🌍 秘鲁 190.120.229.196
+  type: http
+  server: 190.120.229.196
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx8M0nbN-X1-3jWTlMKzmk9oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_波多黎各_199.255.116.5
-  type: vless
+  password: '1'
+- name: 🇵🇭 菲律宾 112.199.95.186
+  type: http
+  server: 112.199.95.186
+  port: 8081
+  password: '1'
+- name: 🇵🇭 菲律宾 103.103.0.21
+  type: http
+  server: 103.103.0.21
+  port: 8081
+  password: '1'
+- name: 🌍 秘鲁 138.186.143.50
+  type: http
+  server: 138.186.143.50
+  port: 8081
+  password: '1'
+- name: 🌍 波多黎各 199.255.116.5
+  type: http
   server: 199.255.116.5
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzYHk6HIhBHBCd_21ybcBGSoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_波兰_5.253.206.122
-  type: vless
-  server: 5.253.206.122
+  password: '1'
+- name: 🇵🇰 巴基斯坦 103.152.255.235
+  type: http
+  server: 103.152.255.235
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwVcpJx4YgB59D4n3TDmXTFoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_葡萄牙_185.113.141.65
-  type: vless
-  server: 185.113.141.65
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyz_TeupMciKUX11KiiKXmYoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_葡萄牙_185.113.140.45
-  type: vless
-  server: 185.113.140.45
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyMW4M2LyZZTbDQBqmwZiNzoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_波兰_194.99.105.90
-  type: vless
-  server: 194.99.105.90
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyvPNBWANhoNucOG635rr_xoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_俄罗斯_146.70.52.54
-  type: vless
-  server: 146.70.52.54
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwo4Za8_dnvwwptSnbVEABLoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_罗马尼亚_146.70.254.146
-  type: vless
-  server: 146.70.254.146
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxYtG8VeOIBXibXSSKYMNlnoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴拉圭_38.165.233.30
-  type: vless
-  server: 38.165.233.30
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw7td_Ss7TGDsZ9GpfV3T0FoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_罗马尼亚_194.59.248.210
-  type: vless
-  server: 194.59.248.210
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyu-248sEK65otV--fP92fUoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_俄罗斯_146.70.231.130
-  type: vless
-  server: 146.70.231.130
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzGHjq1lIVyZeb7GyyOCgk7oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_波兰_54.36.175.24
-  type: vless
+  password: '1'
+- name: 🇵🇱 波兰 54.36.175.24
+  type: http
   server: 54.36.175.24
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzMuUj46eobzLeZsc0miPzooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_俄罗斯_146.70.52.94
-  type: vless
-  server: 146.70.52.94
+  password: '1'
+- name: 🌍 葡萄牙 185.113.140.45
+  type: http
+  server: 185.113.140.45
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzwDe1vHN4NgVGxU6IzHF-AoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_沙特阿拉伯_146.70.167.70
-  type: vless
-  server: 146.70.167.70
+  password: '1'
+- name: 🌍 巴拿马 190.97.163.17
+  type: http
+  server: 190.97.163.17
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzL0mgvk_KEr5Fw_6BDzsfhoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_葡萄牙_185.113.140.26
-  type: vless
-  server: 185.113.140.26
+  password: '1'
+- name: 🌍 波多黎各 38.158.220.26
+  type: http
+  server: 38.158.220.26
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzpiAb0LaZekFstwyUtVAgVoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_瑞典_146.70.145.58
-  type: vless
-  server: 146.70.145.58
+  password: '1'
+- name: 🇵🇱 波兰 194.99.105.90
+  type: http
+  server: 194.99.105.90
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxbt3-Eip4s1jODTzmM7ByzoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_俄罗斯_146.70.52.62
-  type: vless
+  password: '1'
+- name: 🇵🇱 波兰 5.253.206.122
+  type: http
+  server: 5.253.206.122
+  port: 8081
+  password: '1'
+- name: 🇷🇺 俄罗斯 146.70.52.62
+  type: http
   server: 146.70.52.62
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwBKJmbAfd0gN1hOM5f64d_oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新加坡_116.251.217.47
-  type: vless
-  server: 116.251.217.47
+  password: '1'
+- name: 🌍 葡萄牙 185.113.141.65
+  type: http
+  server: 185.113.141.65
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzlco0AFoCfqErKrwuXUcc5oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_巴拉圭_38.165.233.7
-  type: vless
+  password: '1'
+- name: 🌍 巴拉圭 38.165.233.30
+  type: http
+  server: 38.165.233.30
+  port: 8081
+  password: '1'
+- name: 🇷🇴 罗马尼亚 146.70.254.146
+  type: http
+  server: 146.70.254.146
+  port: 8081
+  password: '1'
+- name: 🇷🇺 俄罗斯 146.70.231.130
+  type: http
+  server: 146.70.231.130
+  port: 8081
+  password: '1'
+- name: 🌍 葡萄牙 185.113.140.26
+  type: http
+  server: 185.113.140.26
+  port: 8081
+  password: '1'
+- name: 🇷🇺 俄罗斯 146.70.52.54
+  type: http
+  server: 146.70.52.54
+  port: 8081
+  password: '1'
+- name: 🌍 巴拉圭 38.165.233.7
+  type: http
   server: 38.165.233.7
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxx6Djb6Lzl6kYMP__MIjm_oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_瑞典_95.143.193.15
-  type: vless
-  server: 95.143.193.15
+  password: '1'
+- name: 🇷🇴 罗马尼亚 194.59.248.210
+  type: http
+  server: 194.59.248.210
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxPvNu13wEH5nM3Q85WikveoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新加坡_15.235.145.238
-  type: vless
-  server: 15.235.145.238
+  password: '1'
+- name: 🇷🇺 俄罗斯 146.70.52.94
+  type: http
+  server: 146.70.52.94
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLw_ZzSclZeHLdpxdDooDBbpoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新加坡_116.251.216.100
-  type: vless
-  server: 116.251.216.100
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwx94aZ19wk7UlQYJ0lhC8-oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_瑞典_146.70.122.66
-  type: vless
-  server: 146.70.122.66
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyP_BGfgRh-g83W8GctFaTroXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_斯洛文尼亚_195.80.150.194
-  type: vless
-  server: 195.80.150.194
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLx9lHe2uUWjYKvBximXU4zPoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_土耳其_188.213.34.178
-  type: vless
-  server: 188.213.34.178
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwNu1fL4_fewPmKBGUP3VmcoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_斯洛文尼亚_195.80.150.202
-  type: vless
-  server: 195.80.150.202
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwp9L2q1VqlC7qv_cWFGsk4oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_斯洛伐克_193.37.255.2
-  type: vless
-  server: 193.37.255.2
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwnRpa5EQ3pQI9rR6vFgqnJoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新加坡_103.47.210.34
-  type: vless
+  password: '1'
+- name: 🇸🇬 新加坡 103.47.210.34
+  type: http
   server: 103.47.210.34
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwzlbXGi-OTUJocmBxdPG6NoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_土耳其_188.213.34.126
-  type: vless
-  server: 188.213.34.126
+  password: '1'
+- name: 🇸🇪 瑞典 146.70.145.58
+  type: http
+  server: 146.70.145.58
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz5xS8M7-sfTeyZk02IcBK-oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_土耳其_130.195.216.2
-  type: vless
-  server: 130.195.216.2
+  password: '1'
+- name: 🇸🇪 瑞典 95.143.193.15
+  type: http
+  server: 95.143.193.15
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyZ-McYm1rm_xy8lC8KwgP1oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_台湾_185.189.161.137
-  type: vless
-  server: 185.189.161.137
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzFHlc0ZOUV23KYL0uYvrVjoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_乌克兰_194.28.84.109
-  type: vless
-  server: 194.28.84.109
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyVvYx_4AI19_TpHc0RvWYxoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_新加坡_103.253.27.6
-  type: vless
+  password: '1'
+- name: 🇸🇬 新加坡 103.253.27.6
+  type: http
   server: 103.253.27.6
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLym_xKTlf18-NNlnwc31y6-oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_乌克兰_176.103.54.71
-  type: vless
-  server: 176.103.54.71
+  password: '1'
+- name: 🇸🇦 沙特阿拉伯 146.70.167.70
+  type: http
+  server: 146.70.167.70
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzFBXYjiIhrfx4fMgBraanqoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_斯洛伐克_185.245.85.126
-  type: vless
+  password: '1'
+- name: 🌍 斯洛文尼亚 195.80.150.202
+  type: http
+  server: 195.80.150.202
+  port: 8081
+  password: '1'
+- name: 🇸🇬 新加坡 116.251.217.47
+  type: http
+  server: 116.251.217.47
+  port: 8081
+  password: '1'
+- name: 🇸🇬 新加坡 116.251.216.100
+  type: http
+  server: 116.251.216.100
+  port: 8081
+  password: '1'
+- name: 🇸🇪 瑞典 146.70.122.66
+  type: http
+  server: 146.70.122.66
+  port: 8081
+  password: '1'
+- name: 🌍 斯洛文尼亚 195.80.150.194
+  type: http
+  server: 195.80.150.194
+  port: 8081
+  password: '1'
+- name: 🌍 斯洛伐克 185.245.85.126
+  type: http
   server: 185.245.85.126
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwLGy1XwkM2ytHsR1kTYeuwoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_斯洛伐克_165.231.211.122
-  type: vless
-  server: 165.231.211.122
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzXJfELYuu8pVfjRhHkVlXooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_台湾_103.4.29.100
-  type: vless
-  server: 103.4.29.100
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzCnFusWd8hvmzwhKTheHMKoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_167.17.66.82
-  type: vless
-  server: 167.17.66.82
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz0jpy4bntnoVcrH3yBBvTuxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_泰国_119.59.98.133
-  type: vless
-  server: 119.59.98.133
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzg4jK9VRf_tNMmGEKiogvsoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_146.70.228.82
-  type: vless
-  server: 146.70.228.82
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxBKNTgifJL4k7j12b8SzQJxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_土耳其_185.169.64.46
-  type: vless
+  password: '1'
+- name: 🇹🇷 土耳其 185.169.64.46
+  type: http
   server: 185.169.64.46
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz1Equv2zZXMLgvFwu5wSYFoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.85.171
-  type: vless
-  server: 169.197.85.171
+  password: '1'
+- name: 🌍 斯洛伐克 165.231.211.122
+  type: http
+  server: 165.231.211.122
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyfMqPut-N9kwDuwXoN60Lbxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_乌克兰_176.103.50.127
-  type: vless
+  password: '1'
+- name: 🇹🇷 土耳其 188.213.34.178
+  type: http
+  server: 188.213.34.178
+  port: 8081
+  password: '1'
+- name: 🇸🇬 新加坡 15.235.145.238
+  type: http
+  server: 15.235.145.238
+  port: 8081
+  password: '1'
+- name: 🇹🇷 土耳其 130.195.216.2
+  type: http
+  server: 130.195.216.2
+  port: 8081
+  password: '1'
+- name: 🇹🇭 泰国 119.59.98.133
+  type: http
+  server: 119.59.98.133
+  port: 8081
+  password: '1'
+- name: 🇺🇦 乌克兰 194.28.84.109
+  type: http
+  server: 194.28.84.109
+  port: 8081
+  password: '1'
+- name: 🇹🇷 土耳其 188.213.34.126
+  type: http
+  server: 188.213.34.126
+  port: 8081
+  password: '1'
+- name: 🇹🇼 台湾 103.4.29.100
+  type: http
+  server: 103.4.29.100
+  port: 8081
+  password: '1'
+- name: 🇺🇦 乌克兰 176.103.54.71
+  type: http
+  server: 176.103.54.71
+  port: 8081
+  password: '1'
+- name: 🇺🇦 乌克兰 176.103.50.127
+  type: http
   server: 176.103.50.127
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxYeqlN1GbaUYRqWFnP-P11oXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.85.170
-  type: vless
-  server: 169.197.85.170
+  password: '1'
+- name: 🇹🇼 台湾 185.189.161.137
+  type: http
+  server: 185.189.161.137
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxqdm4AQ5CSNKiPFFmxO1KGxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_130.195.212.66
-  type: vless
-  server: 130.195.212.66
+  password: '1'
+- name: 🌍 斯洛伐克 193.37.255.2
+  type: http
+  server: 193.37.255.2
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzIxelPj1V-K38MoF4DFvXAxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_162.249.172.18
-  type: vless
+  password: '1'
+- name: 🇺🇸 美国 146.70.228.82
+  type: http
+  server: 146.70.228.82
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 162.249.172.18
+  type: http
   server: 162.249.172.18
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyGLEXxXVVkY2_ZOYrgDeWxxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_38.128.66.22
-  type: vless
-  server: 38.128.66.22
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwPpdvEiU-0vhfA_oi_DnUJxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.83.34
-  type: vless
-  server: 169.197.83.34
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzi-prJUlZZtGSX0rGvdPfxxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.142.119
-  type: vless
-  server: 169.197.142.119
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzUlACUnM3cCTAjgFEbMCm8xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.89.186
-  type: vless
-  server: 169.197.89.186
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxMewA-SOQ2v0R5_qBbC1J2xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.142.208
-  type: vless
-  server: 169.197.142.208
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwvSwuWez9wOBY5vz3-mLrDxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.85.172
-  type: vless
-  server: 169.197.85.172
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwXViufXr_wHxK9iggthAJhxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.85.173
-  type: vless
-  server: 169.197.85.173
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLz8IqGVL_PKf9ej8NQ9ip3Gxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_162.251.62.66
-  type: vless
-  server: 162.251.62.66
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxqSoamIOc-wXPJmZlnj4Ulxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.86.50
-  type: vless
+  password: '1'
+- name: 🇺🇸 美国 169.197.86.50
+  type: http
   server: 169.197.86.50
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwnZD0u5-YEHgxbKzN8RBuvxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_38.68.134.126
-  type: vless
-  server: 38.68.134.126
+  password: '1'
+- name: 🇺🇸 美国 169.197.85.171
+  type: http
+  server: 169.197.85.171
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwL5LrSeEgnFuER_SXHYzQ4xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_南非_129.232.237.210
-  type: vless
-  server: 129.232.237.210
+  password: '1'
+- name: 🇺🇸 美国 169.197.83.34
+  type: http
+  server: 169.197.83.34
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzbG-0A_8iFHnNKkYDiYOiToXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_南非_129.232.237.178
-  type: vless
-  server: 129.232.237.178
+  password: '1'
+- name: 🇺🇸 美国 130.195.212.66
+  type: http
+  server: 130.195.212.66
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyOJwaWceELxloBmOrCzixIoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_23.154.136.106
-  type: vless
-  server: 23.154.136.106
+  password: '1'
+- name: 🇺🇸 美国 167.17.66.82
+  type: http
+  server: 167.17.66.82
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLzyQXxsCjxyK5onWwvzSBm3xsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.94.106
-  type: vless
-  server: 169.197.94.106
+  password: '1'
+- name: 🇺🇸 美国 38.128.66.22
+  type: http
+  server: 38.128.66.22
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyyRgeVE0hBWgK2iz7dbRYkxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_乌拉圭_179.27.200.30
-  type: vless
-  server: 179.27.200.30
-  port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLxB54WyEigQLXSWXL87LPmDoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_美国_169.197.85.174
-  type: vless
+  password: '1'
+- name: 🇺🇸 美国 169.197.85.174
+  type: http
   server: 169.197.85.174
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwxZWazUNDtTC4qIq3r0unUxsnp5o63PElOVpFduiCmYA==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_越南_103.97.125.216
-  type: vless
-  server: 103.97.125.216
+  password: '1'
+- name: 🇺🇸 美国 38.68.134.126
+  type: http
+  server: 38.68.134.126
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyRSMV99SjEEfmVNGCoavEyoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_乌拉圭_45.228.67.28
-  type: vless
+  password: '1'
+- name: 🇺🇸 美国 169.197.89.186
+  type: http
+  server: 169.197.89.186
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 169.197.85.173
+  type: http
+  server: 169.197.85.173
+  port: 8081
+  password: '1'
+- name: 🌍 乌拉圭 45.228.67.28
+  type: http
   server: 45.228.67.28
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLyt0TVm4JHBLHhnegPjhajooXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
-- name: VLESS_越南_103.9.78.107
-  type: vless
+  password: '1'
+- name: 🇺🇸 美国 162.251.62.66
+  type: http
+  server: 162.251.62.66
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 169.197.94.106
+  type: http
+  server: 169.197.94.106
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 169.197.142.208
+  type: http
+  server: 169.197.142.208
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 23.154.136.106
+  type: http
+  server: 23.154.136.106
+  port: 8081
+  password: '1'
+- name: 🇻🇳 越南 103.97.125.216
+  type: http
+  server: 103.97.125.216
+  port: 8081
+  password: '1'
+- name: 🇿🇦 南非 129.232.237.178
+  type: http
+  server: 129.232.237.178
+  port: 8081
+  password: '1'
+- name: 🌍 乌拉圭 179.27.200.30
+  type: http
+  server: 179.27.200.30
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 169.197.85.172
+  type: http
+  server: 169.197.85.172
+  port: 8081
+  password: '1'
+- name: 🇺🇸 美国 169.197.85.170
+  type: http
+  server: 169.197.85.170
+  port: 8081
+  password: '1'
+- name: 🇿🇦 南非 129.232.237.210
+  type: http
+  server: 129.232.237.210
+  port: 8081
+  password: '1'
+- name: 🇻🇳 越南 103.9.78.107
+  type: http
   server: 103.9.78.107
   port: 8081
-  uuid: afY491o7YfK00koaXQD9kSSl3NEsdiaZ5QFTOz65qLwKdl-d_8HomEKZLARpTPhNoXw609MC0WdYefYZbCn32A==
-  network: tcp
-  tls: false
-  udp: true
-  cipher: auto
-  client-fingerprint: chrome
+  password: '1'
+- name: 🇺🇸 美国 169.197.142.119
+  type: http
+  server: 169.197.142.119
+  port: 8081
+  password: '1'
+proxy-groups:
+- name: 代理模式
+  type: select
+  url: http://www.gstatic.com/generate_204
+  icon: https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/adjust.svg
+  proxies:
+  - 自动选择
+  - 手动选择
+  - DIRECT
+- name: 手动选择
+  type: select
+  icon: https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/link.svg
+  proxies:
+  - 🇦🇪 阿拉伯联合酋长国 5.42.206.146
+  - 🇦🇪 阿拉伯联合酋长国 146.70.241.122
+  - 🇦🇷 阿根廷 38.165.230.130
+  - 🇦🇷 阿根廷 38.165.230.210
+  - 🇦🇷 阿根廷 190.103.177.162
+  - 🇦🇷 阿根廷 38.165.230.218
+  - 🇦🇷 阿根廷 103.50.33.107
+  - 🇦🇷 阿根廷 38.165.230.194
+  - 🇦🇹 奥地利 130.195.222.54
+  - 🇦🇷 阿根廷 103.50.33.21
+  - 🇦🇹 奥地利 185.210.219.242
+  - 🇦🇷 阿根廷 103.50.33.200
+  - 🇦🇺 澳大利亚 144.48.38.138
+  - 🇦🇹 奥地利 146.70.146.22
+  - 🇦🇺 澳大利亚 144.48.37.141
+  - 🇦🇷 阿根廷 103.50.33.186
+  - 🇦🇹 奥地利 146.70.81.130
+  - 🇦🇹 奥地利 146.70.28.2
+  - 🇦🇺 澳大利亚 139.99.209.67
+  - 🇦🇺 澳大利亚 144.48.39.114
+  - 🇦🇺 澳大利亚 144.48.38.146
+  - 🇦🇺 澳大利亚 103.108.229.143
+  - 🇦🇺 澳大利亚 144.48.37.111
+  - 🇦🇺 澳大利亚 144.48.38.35
+  - 🇦🇺 澳大利亚 139.99.148.18
+  - 🇧🇪 比利时 45.128.133.202
+  - 🇦🇺 澳大利亚 45.248.77.67
+  - 🇧🇪 比利时 185.104.186.78
+  - 🇧🇪 比利时 185.232.21.18
+  - 🇦🇺 澳大利亚 45.125.247.13
+  - 🇧🇪 比利时 146.70.176.222
+  - 🇦🇺 澳大利亚 182.54.232.23
+  - 🇦🇺 澳大利亚 139.99.148.8
+  - 🇧🇬 保加利亚 193.107.70.113
+  - 🇧🇬 保加利亚 37.120.152.186
+  - 🌍 玻利维亚 190.186.42.50
+  - 🇧🇷 巴西 177.54.147.116
+  - 🇧🇷 巴西 140.174.187.15
+  - 🇧🇷 巴西 189.1.173.19
+  - 🇧🇷 巴西 140.174.187.13
+  - 🇧🇷 巴西 140.174.187.19
+  - 🇧🇬 保加利亚 146.70.53.226
+  - 🇧🇷 巴西 177.54.157.16
+  - 🇧🇷 巴西 177.54.146.84
+  - 🇧🇷 巴西 140.174.187.17
+  - 🌍 白俄罗斯 178.172.217.13
+  - 🇨🇦 加拿大 198.57.27.37
+  - 🇨🇦 加拿大 173.209.55.186
+  - 🇨🇦 加拿大 67.43.236.2
+  - 🇨🇦 加拿大 173.209.63.146
+  - 🌍 白俄罗斯 178.172.217.19
+  - 🇨🇦 加拿大 67.43.236.226
+  - 🇨🇭 瑞士 179.43.172.58
+  - 🇨🇦 加拿大 104.245.146.82
+  - 🇨🇦 加拿大 135.84.180.228
+  - 🇨🇦 加拿大 173.209.51.250
+  - 🇨🇦 加拿大 173.209.49.50
+  - 🌍 科特迪瓦 102.220.17.118
+  - 🇨🇱 智利 200.63.100.12
+  - 🇨🇦 加拿大 192.99.5.161
+  - 🌍 中国 43.252.167.94
+  - 🇨🇴 哥伦比亚 103.219.169.75
+  - 🇨🇭 瑞士 185.183.104.146
+  - 🇨🇱 智利 66.203.113.32
+  - 🇨🇭 瑞士 146.70.135.14
+  - 🌍 中国 43.252.167.96
+  - 🌍 哥斯达黎加 200.122.181.11
+  - 🌍 塞浦路斯 185.191.206.100
+  - 🌍 哥斯达黎加 138.59.135.94
+  - 🌍 塞浦路斯 157.97.132.199
+  - 🇨🇱 智利 45.250.252.93
+  - 🇩🇪 德国 89.163.214.214
+  - 🇨🇴 哥伦比亚 138.121.203.146
+  - 🇩🇪 德国 51.38.118.252
+  - 🇩🇪 德国 23.160.72.200
+  - 🇨🇿 捷克 217.138.220.94
+  - 🇩🇪 德国 23.160.72.58
+  - 🇩🇪 德国 51.38.121.188
+  - 🇩🇪 德国 193.108.116.214
+  - 🇩🇪 德国 193.108.116.243
+  - 🇩🇪 德国 5.104.107.99
+  - 🌍 丹麦 146.70.42.202
+  - 🇨🇿 捷克 217.138.220.50
+  - 🌍 丹麦 82.103.131.250
+  - 🇨🇿 捷克 217.138.220.226
+  - 🌍 丹麦 89.45.7.250
+  - 🌍 丹麦 185.212.169.245
+  - 🇩🇪 德国 23.160.72.215
+  - 🇩🇪 德国 193.108.116.231
+  - 🇩🇪 德国 23.160.72.35
+  - 🌍 阿尔及利亚 197.140.142.46
+  - 🌍 丹麦 193.36.116.234
+  - 🌍 厄瓜多尔 179.49.5.119
+  - 🌍 阿尔及利亚 197.140.142.120
+  - 🇩🇪 德国 5.104.107.172
+  - 🌍 爱沙尼亚 95.153.31.102
+  - 🌍 爱沙尼亚 46.22.223.178
+  - 🌍 埃及 188.214.122.162
+  - 🇪🇸 西班牙 188.164.196.6
+  - 🇪🇸 西班牙 140.174.184.53
+  - 🌍 埃及 188.214.122.18
+  - 🌍 爱沙尼亚 95.153.32.34
+  - 🇪🇸 西班牙 108.181.70.43
+  - 🇪🇸 西班牙 89.38.226.94
+  - 🇪🇸 西班牙 108.181.121.42
+  - 🇪🇸 西班牙 45.128.39.170
+  - 🌍 芬兰 83.143.242.74
+  - 🇫🇷 法国 51.159.97.197
+  - 🇫🇷 法国 51.159.220.137
+  - 🇫🇷 法国 51.159.194.79
+  - 🇫🇷 法国 51.158.54.41
+  - 🇫🇷 法国 147.135.130.224
+  - 🌍 芬兰 194.34.134.21
+  - 🇪🇸 西班牙 45.152.183.146
+  - 🇫🇷 法国 87.119.195.251
+  - 🇫🇷 法国 51.91.106.58
+  - 🇫🇷 法国 37.187.194.214
+  - 🇫🇷 法国 51.159.213.92
+  - 🇫🇷 法国 163.172.33.17
+  - 🇫🇷 法国 163.172.54.132
+  - 🇫🇷 法国 163.172.54.211
+  - 🇫🇷 法国 139.64.167.210
+  - 🇫🇷 法国 188.241.83.138
+  - 🇫🇷 法国 79.137.101.250
+  - 🇫🇷 法国 51.159.211.164
+  - 🇫🇷 法国 139.64.167.194
+  - 🇬🇧 英国 185.245.80.156
+  - 🇬🇧 英国 51.89.173.123
+  - 🇫🇷 法国 51.158.62.102
+  - 🇫🇷 法国 51.159.194.50
+  - 🇫🇷 法国 62.210.211.131
+  - 🇫🇷 法国 51.158.62.74
+  - 🇬🇧 英国 78.129.229.29
+  - 🇬🇧 英国 172.99.190.183
+  - 🇬🇧 英国 38.114.120.157
+  - 🇬🇧 英国 185.174.110.2
+  - 🇬🇧 英国 185.145.201.31
+  - 🇫🇷 法国 51.158.62.224
+  - 🇬🇧 英国 51.89.153.211
+  - 🇬🇧 英国 5.180.211.94
+  - 🇬🇧 英国 139.28.176.106
+  - 🇬🇧 英国 172.99.190.215
+  - 🇬🇧 英国 145.239.6.2
+  - 🇬🇧 英国 88.150.230.5
+  - 🌍 格鲁吉亚 188.93.90.66
+  - 🌍 危地马拉 170.80.111.119
+  - 🌍 洪都拉斯 190.92.9.46
+  - 🇬🇧 英国 212.84.160.58
+  - 🌍 希腊 95.129.46.100
+  - 🌍 希腊 93.174.121.131
+  - 🌍 格鲁吉亚 188.93.91.2
+  - 🇭🇺 匈牙利 91.219.236.190
+  - 🇭🇰 香港 169.150.222.197
+  - 🇭🇺 匈牙利 185.104.187.234
+  - 🇭🇺 匈牙利 185.104.187.130
+  - 🌍 克罗地亚 178.218.162.117
+  - 🇮🇩 印度尼西亚 202.162.204.223
+  - 🌍 克罗地亚 178.218.162.114
+  - 🇭🇰 香港 43.252.166.214
+  - 🇮🇪 爱尔兰 188.241.178.86
+  - 🇮🇪 爱尔兰 185.252.222.170
+  - 🇮🇩 印度尼西亚 45.64.98.114
+  - 🇮🇩 印度尼西亚 202.162.204.214
+  - 🌍 以色列 185.253.73.216
+  - 🌍 以色列 182.54.236.193
+  - 🇮🇳 印度 148.113.0.105
+  - 🌍 以色列 182.54.236.194
+  - 🇮🇳 印度 148.113.8.93
+  - 🇮🇳 印度 148.113.47.56
+  - 🌍 冰岛 37.235.49.61
+  - 🇮🇹 意大利 185.213.21.111
+  - 🇮🇳 印度 148.113.47.86
+  - 🇮🇳 印度 148.113.0.104
+  - 🇮🇹 意大利 91.193.5.182
+  - 🇮🇹 意大利 95.141.37.244
+  - 🇯🇵 日本 180.149.230.169
+  - 🌍 约旦 82.212.77.242
+  - 🌍 约旦 82.212.103.6
+  - 🇯🇵 日本 5.180.44.194
+  - 🌍 约旦 82.212.77.244
+  - 🇯🇵 日本 23.81.44.10
+  - 🇯🇵 日本 103.108.230.50
+  - 🌍 冰岛 37.235.49.103
+  - 🇯🇵 日本 180.149.230.241
+  - 🌍 肯尼亚 102.68.86.97
+  - 🇯🇵 日本 103.108.230.52
+  - 🇯🇵 日本 103.108.230.31
+  - 🇮🇹 意大利 158.58.173.73
+  - 🇮🇹 意大利 37.120.135.218
+  - 🇯🇵 日本 103.108.230.51
+  - 🇰🇷 韩国 79.110.55.34
+  - 🌍 吉尔吉斯斯坦 91.213.233.111
+  - 🇰🇷 韩国 61.255.174.11
+  - 🌍 吉尔吉斯斯坦 91.213.233.176
+  - 🌍 立陶宛 185.64.104.96
+  - 🇰🇷 韩国 140.174.179.129
+  - 🇰🇿 哈萨克斯坦 185.120.77.104
+  - 🌍 科威特 38.54.124.170
+  - 🌍 立陶宛 185.64.104.88
+  - 🌍 立陶宛 85.206.170.244
+  - 🌍 摩洛哥 154.70.207.190
+  - 🌍 拉脱维亚 109.248.149.173
+  - 🌍 卢森堡 23.109.136.154
+  - 🌍 卢森堡 23.109.137.14
+  - 🌍 卢森堡 23.109.136.82
+  - 🌍 拉脱维亚 84.38.134.139
+  - 🇲🇽 墨西哥 201.150.33.172
+  - 🌍 摩洛哥 154.70.207.146
+  - 🌍 蒙古 43.231.113.84
+  - 🇲🇽 墨西哥 201.150.35.76
+  - 🌍 马耳他 171.22.254.144
+  - 🇲🇾 马来西亚 111.90.141.223
+  - 🌍 卢森堡 23.109.136.54
+  - 🇲🇾 马来西亚 202.87.221.113
+  - 🌍 马耳他 171.22.254.19
+  - 🌍 尼日利亚 169.255.57.58
+  - 🇳🇱 荷兰 51.15.16.66
+  - 🌍 尼加拉瓜 131.196.35.40
+  - 🇳🇱 荷兰 51.15.16.243
+  - 🇳🇱 荷兰 51.158.252.46
+  - 🇳🇱 荷兰 185.221.219.189
+  - 🇲🇽 墨西哥 201.150.33.188
+  - 🇲🇾 马来西亚 111.90.159.52
+  - 🌍 挪威 185.90.61.23
+  - 🇳🇱 荷兰 185.121.94.132
+  - 🌍 挪威 217.170.205.150
+  - 🌍 挪威 185.90.61.217
+  - 🌍 蒙古 43.231.114.178
+  - 🇳🇱 荷兰 5.79.121.55
+  - 🇳🇱 荷兰 185.121.94.131
+  - 🌍 新西兰 180.149.231.99
+  - 🌍 挪威 185.181.61.141
+  - 🌍 新西兰 180.149.231.103
+  - 🌍 新西兰 180.149.231.76
+  - 🌍 新西兰 180.149.231.71
+  - 🌍 巴拿马 200.74.244.7
+  - 🌍 新西兰 103.75.11.41
+  - 🇵🇱 波兰 54.36.174.39
+  - 🌍 秘鲁 190.120.229.196
+  - 🇵🇭 菲律宾 112.199.95.186
+  - 🇵🇭 菲律宾 103.103.0.21
+  - 🌍 秘鲁 138.186.143.50
+  - 🌍 波多黎各 199.255.116.5
+  - 🇵🇰 巴基斯坦 103.152.255.235
+  - 🇵🇱 波兰 54.36.175.24
+  - 🌍 葡萄牙 185.113.140.45
+  - 🌍 巴拿马 190.97.163.17
+  - 🌍 波多黎各 38.158.220.26
+  - 🇵🇱 波兰 194.99.105.90
+  - 🇵🇱 波兰 5.253.206.122
+  - 🇷🇺 俄罗斯 146.70.52.62
+  - 🌍 葡萄牙 185.113.141.65
+  - 🌍 巴拉圭 38.165.233.30
+  - 🇷🇴 罗马尼亚 146.70.254.146
+  - 🇷🇺 俄罗斯 146.70.231.130
+  - 🌍 葡萄牙 185.113.140.26
+  - 🇷🇺 俄罗斯 146.70.52.54
+  - 🌍 巴拉圭 38.165.233.7
+  - 🇷🇴 罗马尼亚 194.59.248.210
+  - 🇷🇺 俄罗斯 146.70.52.94
+  - 🇸🇬 新加坡 103.47.210.34
+  - 🇸🇪 瑞典 146.70.145.58
+  - 🇸🇪 瑞典 95.143.193.15
+  - 🇸🇬 新加坡 103.253.27.6
+  - 🇸🇦 沙特阿拉伯 146.70.167.70
+  - 🌍 斯洛文尼亚 195.80.150.202
+  - 🇸🇬 新加坡 116.251.217.47
+  - 🇸🇬 新加坡 116.251.216.100
+  - 🇸🇪 瑞典 146.70.122.66
+  - 🌍 斯洛文尼亚 195.80.150.194
+  - 🌍 斯洛伐克 185.245.85.126
+  - 🇹🇷 土耳其 185.169.64.46
+  - 🌍 斯洛伐克 165.231.211.122
+  - 🇹🇷 土耳其 188.213.34.178
+  - 🇸🇬 新加坡 15.235.145.238
+  - 🇹🇷 土耳其 130.195.216.2
+  - 🇹🇭 泰国 119.59.98.133
+  - 🇺🇦 乌克兰 194.28.84.109
+  - 🇹🇷 土耳其 188.213.34.126
+  - 🇹🇼 台湾 103.4.29.100
+  - 🇺🇦 乌克兰 176.103.54.71
+  - 🇺🇦 乌克兰 176.103.50.127
+  - 🇹🇼 台湾 185.189.161.137
+  - 🌍 斯洛伐克 193.37.255.2
+  - 🇺🇸 美国 146.70.228.82
+  - 🇺🇸 美国 162.249.172.18
+  - 🇺🇸 美国 169.197.86.50
+  - 🇺🇸 美国 169.197.85.171
+  - 🇺🇸 美国 169.197.83.34
+  - 🇺🇸 美国 130.195.212.66
+  - 🇺🇸 美国 167.17.66.82
+  - 🇺🇸 美国 38.128.66.22
+  - 🇺🇸 美国 169.197.85.174
+  - 🇺🇸 美国 38.68.134.126
+  - 🇺🇸 美国 169.197.89.186
+  - 🇺🇸 美国 169.197.85.173
+  - 🌍 乌拉圭 45.228.67.28
+  - 🇺🇸 美国 162.251.62.66
+  - 🇺🇸 美国 169.197.94.106
+  - 🇺🇸 美国 169.197.142.208
+  - 🇺🇸 美国 23.154.136.106
+  - 🇻🇳 越南 103.97.125.216
+  - 🇿🇦 南非 129.232.237.178
+  - 🌍 乌拉圭 179.27.200.30
+  - 🇺🇸 美国 169.197.85.172
+  - 🇺🇸 美国 169.197.85.170
+  - 🇿🇦 南非 129.232.237.210
+  - 🇻🇳 越南 103.9.78.107
+  - 🇺🇸 美国 169.197.142.119
+- name: 自动选择
+  type: select
+  icon: https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/speed.svg
+  proxies:
+  - 🌍 中国
+  - 🌍 丹麦
+  - 🇺🇦 乌克兰
+  - 🌍 乌拉圭
+  - 🌍 以色列
+  - 🇷🇺 俄罗斯
+  - 🇧🇬 保加利亚
+  - 🌍 克罗地亚
+  - 🌍 冰岛
+  - 🇨🇦 加拿大
+  - 🇭🇺 匈牙利
+  - 🇿🇦 南非
+  - 🌍 卢森堡
+  - 🇮🇳 印度
+  - 🇮🇩 印度尼西亚
+  - 🌍 危地马拉
+  - 🌍 厄瓜多尔
+  - 🇹🇼 台湾
+  - 🌍 吉尔吉斯斯坦
+  - 🇰🇿 哈萨克斯坦
+  - 🇨🇴 哥伦比亚
+  - 🌍 哥斯达黎加
+  - 🇹🇷 土耳其
+  - 🌍 埃及
+  - 🌍 塞浦路斯
+  - 🇲🇽 墨西哥
+  - 🇦🇹 奥地利
+  - 🌍 尼加拉瓜
+  - 🌍 尼日利亚
+  - 🇵🇰 巴基斯坦
+  - 🌍 巴拉圭
+  - 🌍 巴拿马
+  - 🇧🇷 巴西
+  - 🌍 希腊
+  - 🇩🇪 德国
+  - 🇮🇹 意大利
+  - 🌍 拉脱维亚
+  - 🌍 挪威
+  - 🇨🇿 捷克
+  - 🌍 摩洛哥
+  - 🌍 斯洛伐克
+  - 🌍 斯洛文尼亚
+  - 🇸🇬 新加坡
+  - 🌍 新西兰
+  - 🇯🇵 日本
+  - 🇨🇱 智利
+  - 🌍 格鲁吉亚
+  - 🇧🇪 比利时
+  - 🇸🇦 沙特阿拉伯
+  - 🇫🇷 法国
+  - 🇵🇱 波兰
+  - 🌍 波多黎各
+  - 🇹🇭 泰国
+  - 🌍 洪都拉斯
+  - 🇦🇺 澳大利亚
+  - 🇮🇪 爱尔兰
+  - 🌍 爱沙尼亚
+  - 🌍 玻利维亚
+  - 🇸🇪 瑞典
+  - 🇨🇭 瑞士
+  - 🌍 白俄罗斯
+  - 🌍 科威特
+  - 🌍 科特迪瓦
+  - 🌍 秘鲁
+  - 🌍 立陶宛
+  - 🌍 约旦
+  - 🇷🇴 罗马尼亚
+  - 🇺🇸 美国
+  - 🌍 肯尼亚
+  - 🌍 芬兰
+  - 🇬🇧 英国
+  - 🇳🇱 荷兰
+  - 🇵🇭 菲律宾
+  - 🌍 葡萄牙
+  - 🌍 蒙古
+  - 🇪🇸 西班牙
+  - 🇻🇳 越南
+  - 🌍 阿尔及利亚
+  - 🇦🇪 阿拉伯联合酋长国
+  - 🇦🇷 阿根廷
+  - 🇰🇷 韩国
+  - 🇭🇰 香港
+  - 🇲🇾 马来西亚
+  - 🌍 马耳他
+- name: 🌍 中国
+  type: url-test
+  proxies:
+  - 🌍 中国 43.252.167.94
+  - 🌍 中国 43.252.167.96
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 丹麦
+  type: url-test
+  proxies:
+  - 🌍 丹麦 146.70.42.202
+  - 🌍 丹麦 185.212.169.245
+  - 🌍 丹麦 193.36.116.234
+  - 🌍 丹麦 82.103.131.250
+  - 🌍 丹麦 89.45.7.250
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇺🇦 乌克兰
+  type: url-test
+  proxies:
+  - 🇺🇦 乌克兰 176.103.50.127
+  - 🇺🇦 乌克兰 176.103.54.71
+  - 🇺🇦 乌克兰 194.28.84.109
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 乌拉圭
+  type: url-test
+  proxies:
+  - 🌍 乌拉圭 179.27.200.30
+  - 🌍 乌拉圭 45.228.67.28
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 以色列
+  type: url-test
+  proxies:
+  - 🌍 以色列 182.54.236.193
+  - 🌍 以色列 182.54.236.194
+  - 🌍 以色列 185.253.73.216
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇷🇺 俄罗斯
+  type: url-test
+  proxies:
+  - 🇷🇺 俄罗斯 146.70.231.130
+  - 🇷🇺 俄罗斯 146.70.52.54
+  - 🇷🇺 俄罗斯 146.70.52.62
+  - 🇷🇺 俄罗斯 146.70.52.94
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇧🇬 保加利亚
+  type: url-test
+  proxies:
+  - 🇧🇬 保加利亚 146.70.53.226
+  - 🇧🇬 保加利亚 193.107.70.113
+  - 🇧🇬 保加利亚 37.120.152.186
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 克罗地亚
+  type: url-test
+  proxies:
+  - 🌍 克罗地亚 178.218.162.114
+  - 🌍 克罗地亚 178.218.162.117
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 冰岛
+  type: url-test
+  proxies:
+  - 🌍 冰岛 37.235.49.103
+  - 🌍 冰岛 37.235.49.61
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇨🇦 加拿大
+  type: url-test
+  proxies:
+  - 🇨🇦 加拿大 104.245.146.82
+  - 🇨🇦 加拿大 135.84.180.228
+  - 🇨🇦 加拿大 173.209.49.50
+  - 🇨🇦 加拿大 173.209.51.250
+  - 🇨🇦 加拿大 173.209.55.186
+  - 🇨🇦 加拿大 173.209.63.146
+  - 🇨🇦 加拿大 192.99.5.161
+  - 🇨🇦 加拿大 198.57.27.37
+  - 🇨🇦 加拿大 67.43.236.2
+  - 🇨🇦 加拿大 67.43.236.226
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇭🇺 匈牙利
+  type: url-test
+  proxies:
+  - 🇭🇺 匈牙利 185.104.187.130
+  - 🇭🇺 匈牙利 185.104.187.234
+  - 🇭🇺 匈牙利 91.219.236.190
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇿🇦 南非
+  type: url-test
+  proxies:
+  - 🇿🇦 南非 129.232.237.178
+  - 🇿🇦 南非 129.232.237.210
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 卢森堡
+  type: url-test
+  proxies:
+  - 🌍 卢森堡 23.109.136.154
+  - 🌍 卢森堡 23.109.136.54
+  - 🌍 卢森堡 23.109.136.82
+  - 🌍 卢森堡 23.109.137.14
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇮🇳 印度
+  type: url-test
+  proxies:
+  - 🇮🇳 印度 148.113.0.104
+  - 🇮🇳 印度 148.113.0.105
+  - 🇮🇳 印度 148.113.47.56
+  - 🇮🇳 印度 148.113.47.86
+  - 🇮🇳 印度 148.113.8.93
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇮🇩 印度尼西亚
+  type: url-test
+  proxies:
+  - 🇮🇩 印度尼西亚 202.162.204.214
+  - 🇮🇩 印度尼西亚 202.162.204.223
+  - 🇮🇩 印度尼西亚 45.64.98.114
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 危地马拉
+  type: url-test
+  proxies:
+  - 🌍 危地马拉 170.80.111.119
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 厄瓜多尔
+  type: url-test
+  proxies:
+  - 🌍 厄瓜多尔 179.49.5.119
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇹🇼 台湾
+  type: url-test
+  proxies:
+  - 🇹🇼 台湾 103.4.29.100
+  - 🇹🇼 台湾 185.189.161.137
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 吉尔吉斯斯坦
+  type: url-test
+  proxies:
+  - 🌍 吉尔吉斯斯坦 91.213.233.111
+  - 🌍 吉尔吉斯斯坦 91.213.233.176
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇰🇿 哈萨克斯坦
+  type: url-test
+  proxies:
+  - 🇰🇿 哈萨克斯坦 185.120.77.104
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇨🇴 哥伦比亚
+  type: url-test
+  proxies:
+  - 🇨🇴 哥伦比亚 103.219.169.75
+  - 🇨🇴 哥伦比亚 138.121.203.146
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 哥斯达黎加
+  type: url-test
+  proxies:
+  - 🌍 哥斯达黎加 138.59.135.94
+  - 🌍 哥斯达黎加 200.122.181.11
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇹🇷 土耳其
+  type: url-test
+  proxies:
+  - 🇹🇷 土耳其 130.195.216.2
+  - 🇹🇷 土耳其 185.169.64.46
+  - 🇹🇷 土耳其 188.213.34.126
+  - 🇹🇷 土耳其 188.213.34.178
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 埃及
+  type: url-test
+  proxies:
+  - 🌍 埃及 188.214.122.162
+  - 🌍 埃及 188.214.122.18
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 塞浦路斯
+  type: url-test
+  proxies:
+  - 🌍 塞浦路斯 157.97.132.199
+  - 🌍 塞浦路斯 185.191.206.100
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇲🇽 墨西哥
+  type: url-test
+  proxies:
+  - 🇲🇽 墨西哥 201.150.33.172
+  - 🇲🇽 墨西哥 201.150.33.188
+  - 🇲🇽 墨西哥 201.150.35.76
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇦🇹 奥地利
+  type: url-test
+  proxies:
+  - 🇦🇹 奥地利 130.195.222.54
+  - 🇦🇹 奥地利 146.70.146.22
+  - 🇦🇹 奥地利 146.70.28.2
+  - 🇦🇹 奥地利 146.70.81.130
+  - 🇦🇹 奥地利 185.210.219.242
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 尼加拉瓜
+  type: url-test
+  proxies:
+  - 🌍 尼加拉瓜 131.196.35.40
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 尼日利亚
+  type: url-test
+  proxies:
+  - 🌍 尼日利亚 169.255.57.58
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇵🇰 巴基斯坦
+  type: url-test
+  proxies:
+  - 🇵🇰 巴基斯坦 103.152.255.235
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 巴拉圭
+  type: url-test
+  proxies:
+  - 🌍 巴拉圭 38.165.233.30
+  - 🌍 巴拉圭 38.165.233.7
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 巴拿马
+  type: url-test
+  proxies:
+  - 🌍 巴拿马 190.97.163.17
+  - 🌍 巴拿马 200.74.244.7
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇧🇷 巴西
+  type: url-test
+  proxies:
+  - 🇧🇷 巴西 140.174.187.13
+  - 🇧🇷 巴西 140.174.187.15
+  - 🇧🇷 巴西 140.174.187.17
+  - 🇧🇷 巴西 140.174.187.19
+  - 🇧🇷 巴西 177.54.146.84
+  - 🇧🇷 巴西 177.54.147.116
+  - 🇧🇷 巴西 177.54.157.16
+  - 🇧🇷 巴西 189.1.173.19
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 希腊
+  type: url-test
+  proxies:
+  - 🌍 希腊 93.174.121.131
+  - 🌍 希腊 95.129.46.100
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇩🇪 德国
+  type: url-test
+  proxies:
+  - 🇩🇪 德国 193.108.116.214
+  - 🇩🇪 德国 193.108.116.231
+  - 🇩🇪 德国 193.108.116.243
+  - 🇩🇪 德国 23.160.72.200
+  - 🇩🇪 德国 23.160.72.215
+  - 🇩🇪 德国 23.160.72.35
+  - 🇩🇪 德国 23.160.72.58
+  - 🇩🇪 德国 5.104.107.172
+  - 🇩🇪 德国 5.104.107.99
+  - 🇩🇪 德国 51.38.118.252
+  - 🇩🇪 德国 51.38.121.188
+  - 🇩🇪 德国 89.163.214.214
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇮🇹 意大利
+  type: url-test
+  proxies:
+  - 🇮🇹 意大利 158.58.173.73
+  - 🇮🇹 意大利 185.213.21.111
+  - 🇮🇹 意大利 37.120.135.218
+  - 🇮🇹 意大利 91.193.5.182
+  - 🇮🇹 意大利 95.141.37.244
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 拉脱维亚
+  type: url-test
+  proxies:
+  - 🌍 拉脱维亚 109.248.149.173
+  - 🌍 拉脱维亚 84.38.134.139
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 挪威
+  type: url-test
+  proxies:
+  - 🌍 挪威 185.181.61.141
+  - 🌍 挪威 185.90.61.217
+  - 🌍 挪威 185.90.61.23
+  - 🌍 挪威 217.170.205.150
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇨🇿 捷克
+  type: url-test
+  proxies:
+  - 🇨🇿 捷克 217.138.220.226
+  - 🇨🇿 捷克 217.138.220.50
+  - 🇨🇿 捷克 217.138.220.94
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 摩洛哥
+  type: url-test
+  proxies:
+  - 🌍 摩洛哥 154.70.207.146
+  - 🌍 摩洛哥 154.70.207.190
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 斯洛伐克
+  type: url-test
+  proxies:
+  - 🌍 斯洛伐克 165.231.211.122
+  - 🌍 斯洛伐克 185.245.85.126
+  - 🌍 斯洛伐克 193.37.255.2
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 斯洛文尼亚
+  type: url-test
+  proxies:
+  - 🌍 斯洛文尼亚 195.80.150.194
+  - 🌍 斯洛文尼亚 195.80.150.202
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇸🇬 新加坡
+  type: url-test
+  proxies:
+  - 🇸🇬 新加坡 103.253.27.6
+  - 🇸🇬 新加坡 103.47.210.34
+  - 🇸🇬 新加坡 116.251.216.100
+  - 🇸🇬 新加坡 116.251.217.47
+  - 🇸🇬 新加坡 15.235.145.238
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 新西兰
+  type: url-test
+  proxies:
+  - 🌍 新西兰 103.75.11.41
+  - 🌍 新西兰 180.149.231.103
+  - 🌍 新西兰 180.149.231.71
+  - 🌍 新西兰 180.149.231.76
+  - 🌍 新西兰 180.149.231.99
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇯🇵 日本
+  type: url-test
+  proxies:
+  - 🇯🇵 日本 103.108.230.31
+  - 🇯🇵 日本 103.108.230.50
+  - 🇯🇵 日本 103.108.230.51
+  - 🇯🇵 日本 103.108.230.52
+  - 🇯🇵 日本 180.149.230.169
+  - 🇯🇵 日本 180.149.230.241
+  - 🇯🇵 日本 23.81.44.10
+  - 🇯🇵 日本 5.180.44.194
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇨🇱 智利
+  type: url-test
+  proxies:
+  - 🇨🇱 智利 200.63.100.12
+  - 🇨🇱 智利 45.250.252.93
+  - 🇨🇱 智利 66.203.113.32
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 格鲁吉亚
+  type: url-test
+  proxies:
+  - 🌍 格鲁吉亚 188.93.90.66
+  - 🌍 格鲁吉亚 188.93.91.2
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇧🇪 比利时
+  type: url-test
+  proxies:
+  - 🇧🇪 比利时 146.70.176.222
+  - 🇧🇪 比利时 185.104.186.78
+  - 🇧🇪 比利时 185.232.21.18
+  - 🇧🇪 比利时 45.128.133.202
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇸🇦 沙特阿拉伯
+  type: url-test
+  proxies:
+  - 🇸🇦 沙特阿拉伯 146.70.167.70
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇫🇷 法国
+  type: url-test
+  proxies:
+  - 🇫🇷 法国 139.64.167.194
+  - 🇫🇷 法国 139.64.167.210
+  - 🇫🇷 法国 147.135.130.224
+  - 🇫🇷 法国 163.172.33.17
+  - 🇫🇷 法国 163.172.54.132
+  - 🇫🇷 法国 163.172.54.211
+  - 🇫🇷 法国 188.241.83.138
+  - 🇫🇷 法国 37.187.194.214
+  - 🇫🇷 法国 51.158.54.41
+  - 🇫🇷 法国 51.158.62.102
+  - 🇫🇷 法国 51.158.62.224
+  - 🇫🇷 法国 51.158.62.74
+  - 🇫🇷 法国 51.159.194.50
+  - 🇫🇷 法国 51.159.194.79
+  - 🇫🇷 法国 51.159.211.164
+  - 🇫🇷 法国 51.159.213.92
+  - 🇫🇷 法国 51.159.220.137
+  - 🇫🇷 法国 51.159.97.197
+  - 🇫🇷 法国 51.91.106.58
+  - 🇫🇷 法国 62.210.211.131
+  - 🇫🇷 法国 79.137.101.250
+  - 🇫🇷 法国 87.119.195.251
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇵🇱 波兰
+  type: url-test
+  proxies:
+  - 🇵🇱 波兰 194.99.105.90
+  - 🇵🇱 波兰 5.253.206.122
+  - 🇵🇱 波兰 54.36.174.39
+  - 🇵🇱 波兰 54.36.175.24
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 波多黎各
+  type: url-test
+  proxies:
+  - 🌍 波多黎各 199.255.116.5
+  - 🌍 波多黎各 38.158.220.26
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇹🇭 泰国
+  type: url-test
+  proxies:
+  - 🇹🇭 泰国 119.59.98.133
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 洪都拉斯
+  type: url-test
+  proxies:
+  - 🌍 洪都拉斯 190.92.9.46
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇦🇺 澳大利亚
+  type: url-test
+  proxies:
+  - 🇦🇺 澳大利亚 103.108.229.143
+  - 🇦🇺 澳大利亚 139.99.148.18
+  - 🇦🇺 澳大利亚 139.99.148.8
+  - 🇦🇺 澳大利亚 139.99.209.67
+  - 🇦🇺 澳大利亚 144.48.37.111
+  - 🇦🇺 澳大利亚 144.48.37.141
+  - 🇦🇺 澳大利亚 144.48.38.138
+  - 🇦🇺 澳大利亚 144.48.38.146
+  - 🇦🇺 澳大利亚 144.48.38.35
+  - 🇦🇺 澳大利亚 144.48.39.114
+  - 🇦🇺 澳大利亚 182.54.232.23
+  - 🇦🇺 澳大利亚 45.125.247.13
+  - 🇦🇺 澳大利亚 45.248.77.67
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇮🇪 爱尔兰
+  type: url-test
+  proxies:
+  - 🇮🇪 爱尔兰 185.252.222.170
+  - 🇮🇪 爱尔兰 188.241.178.86
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 爱沙尼亚
+  type: url-test
+  proxies:
+  - 🌍 爱沙尼亚 46.22.223.178
+  - 🌍 爱沙尼亚 95.153.31.102
+  - 🌍 爱沙尼亚 95.153.32.34
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 玻利维亚
+  type: url-test
+  proxies:
+  - 🌍 玻利维亚 190.186.42.50
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇸🇪 瑞典
+  type: url-test
+  proxies:
+  - 🇸🇪 瑞典 146.70.122.66
+  - 🇸🇪 瑞典 146.70.145.58
+  - 🇸🇪 瑞典 95.143.193.15
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇨🇭 瑞士
+  type: url-test
+  proxies:
+  - 🇨🇭 瑞士 146.70.135.14
+  - 🇨🇭 瑞士 179.43.172.58
+  - 🇨🇭 瑞士 185.183.104.146
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 白俄罗斯
+  type: url-test
+  proxies:
+  - 🌍 白俄罗斯 178.172.217.13
+  - 🌍 白俄罗斯 178.172.217.19
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 科威特
+  type: url-test
+  proxies:
+  - 🌍 科威特 38.54.124.170
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 科特迪瓦
+  type: url-test
+  proxies:
+  - 🌍 科特迪瓦 102.220.17.118
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 秘鲁
+  type: url-test
+  proxies:
+  - 🌍 秘鲁 138.186.143.50
+  - 🌍 秘鲁 190.120.229.196
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 立陶宛
+  type: url-test
+  proxies:
+  - 🌍 立陶宛 185.64.104.88
+  - 🌍 立陶宛 185.64.104.96
+  - 🌍 立陶宛 85.206.170.244
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 约旦
+  type: url-test
+  proxies:
+  - 🌍 约旦 82.212.103.6
+  - 🌍 约旦 82.212.77.242
+  - 🌍 约旦 82.212.77.244
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇷🇴 罗马尼亚
+  type: url-test
+  proxies:
+  - 🇷🇴 罗马尼亚 146.70.254.146
+  - 🇷🇴 罗马尼亚 194.59.248.210
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇺🇸 美国
+  type: url-test
+  proxies:
+  - 🇺🇸 美国 130.195.212.66
+  - 🇺🇸 美国 146.70.228.82
+  - 🇺🇸 美国 162.249.172.18
+  - 🇺🇸 美国 162.251.62.66
+  - 🇺🇸 美国 167.17.66.82
+  - 🇺🇸 美国 169.197.142.119
+  - 🇺🇸 美国 169.197.142.208
+  - 🇺🇸 美国 169.197.83.34
+  - 🇺🇸 美国 169.197.85.170
+  - 🇺🇸 美国 169.197.85.171
+  - 🇺🇸 美国 169.197.85.172
+  - 🇺🇸 美国 169.197.85.173
+  - 🇺🇸 美国 169.197.85.174
+  - 🇺🇸 美国 169.197.86.50
+  - 🇺🇸 美国 169.197.89.186
+  - 🇺🇸 美国 169.197.94.106
+  - 🇺🇸 美国 23.154.136.106
+  - 🇺🇸 美国 38.128.66.22
+  - 🇺🇸 美国 38.68.134.126
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 肯尼亚
+  type: url-test
+  proxies:
+  - 🌍 肯尼亚 102.68.86.97
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 芬兰
+  type: url-test
+  proxies:
+  - 🌍 芬兰 194.34.134.21
+  - 🌍 芬兰 83.143.242.74
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇬🇧 英国
+  type: url-test
+  proxies:
+  - 🇬🇧 英国 139.28.176.106
+  - 🇬🇧 英国 145.239.6.2
+  - 🇬🇧 英国 172.99.190.183
+  - 🇬🇧 英国 172.99.190.215
+  - 🇬🇧 英国 185.145.201.31
+  - 🇬🇧 英国 185.174.110.2
+  - 🇬🇧 英国 185.245.80.156
+  - 🇬🇧 英国 212.84.160.58
+  - 🇬🇧 英国 38.114.120.157
+  - 🇬🇧 英国 5.180.211.94
+  - 🇬🇧 英国 51.89.153.211
+  - 🇬🇧 英国 51.89.173.123
+  - 🇬🇧 英国 78.129.229.29
+  - 🇬🇧 英国 88.150.230.5
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇳🇱 荷兰
+  type: url-test
+  proxies:
+  - 🇳🇱 荷兰 185.121.94.131
+  - 🇳🇱 荷兰 185.121.94.132
+  - 🇳🇱 荷兰 185.221.219.189
+  - 🇳🇱 荷兰 5.79.121.55
+  - 🇳🇱 荷兰 51.15.16.243
+  - 🇳🇱 荷兰 51.15.16.66
+  - 🇳🇱 荷兰 51.158.252.46
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇵🇭 菲律宾
+  type: url-test
+  proxies:
+  - 🇵🇭 菲律宾 103.103.0.21
+  - 🇵🇭 菲律宾 112.199.95.186
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 葡萄牙
+  type: url-test
+  proxies:
+  - 🌍 葡萄牙 185.113.140.26
+  - 🌍 葡萄牙 185.113.140.45
+  - 🌍 葡萄牙 185.113.141.65
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 蒙古
+  type: url-test
+  proxies:
+  - 🌍 蒙古 43.231.113.84
+  - 🌍 蒙古 43.231.114.178
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇪🇸 西班牙
+  type: url-test
+  proxies:
+  - 🇪🇸 西班牙 108.181.121.42
+  - 🇪🇸 西班牙 108.181.70.43
+  - 🇪🇸 西班牙 140.174.184.53
+  - 🇪🇸 西班牙 188.164.196.6
+  - 🇪🇸 西班牙 45.128.39.170
+  - 🇪🇸 西班牙 45.152.183.146
+  - 🇪🇸 西班牙 89.38.226.94
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇻🇳 越南
+  type: url-test
+  proxies:
+  - 🇻🇳 越南 103.9.78.107
+  - 🇻🇳 越南 103.97.125.216
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 阿尔及利亚
+  type: url-test
+  proxies:
+  - 🌍 阿尔及利亚 197.140.142.120
+  - 🌍 阿尔及利亚 197.140.142.46
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇦🇪 阿拉伯联合酋长国
+  type: url-test
+  proxies:
+  - 🇦🇪 阿拉伯联合酋长国 146.70.241.122
+  - 🇦🇪 阿拉伯联合酋长国 5.42.206.146
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇦🇷 阿根廷
+  type: url-test
+  proxies:
+  - 🇦🇷 阿根廷 103.50.33.107
+  - 🇦🇷 阿根廷 103.50.33.186
+  - 🇦🇷 阿根廷 103.50.33.200
+  - 🇦🇷 阿根廷 103.50.33.21
+  - 🇦🇷 阿根廷 190.103.177.162
+  - 🇦🇷 阿根廷 38.165.230.130
+  - 🇦🇷 阿根廷 38.165.230.194
+  - 🇦🇷 阿根廷 38.165.230.210
+  - 🇦🇷 阿根廷 38.165.230.218
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇰🇷 韩国
+  type: url-test
+  proxies:
+  - 🇰🇷 韩国 140.174.179.129
+  - 🇰🇷 韩国 61.255.174.11
+  - 🇰🇷 韩国 79.110.55.34
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇭🇰 香港
+  type: url-test
+  proxies:
+  - 🇭🇰 香港 169.150.222.197
+  - 🇭🇰 香港 43.252.166.214
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🇲🇾 马来西亚
+  type: url-test
+  proxies:
+  - 🇲🇾 马来西亚 111.90.141.223
+  - 🇲🇾 马来西亚 111.90.159.52
+  - 🇲🇾 马来西亚 202.87.221.113
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 🌍 马耳他
+  type: url-test
+  proxies:
+  - 🌍 马耳他 171.22.254.144
+  - 🌍 马耳他 171.22.254.19
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  lazy: true
+- name: 漏网之鱼
+  type: select
+  proxies:
+  - DIRECT
+  - 代理模式
+  icon: https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/fish.svg
+- name: 广告拦截
+  type: select
+  proxies:
+  - REJECT
+  - DIRECT
+  - 代理模式
+  icon: https://fastly.jsdelivr.net/gh/clash-verge-rev/clash-verge-rev.github.io@main/docs/assets/icons/block.svg
+rules:
+- DOMAIN-SUFFIX,copilot.microsoft.com,代理模式
+- DOMAIN-SUFFIX,linux.do,DIRECT
+- DOMAIN-SUFFIX,oaifree.com,DIRECT
+- DOMAIN-SUFFIX,bing.com,DIRECT
+- DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,microsoft.com,DIRECT
+- DOMAIN-SUFFIX,oracle.com,DIRECT
+- DOMAIN-KEYWORD,browserleaks,代理模式
+- RULE-SET,AWAvenue_Ads_Rule,广告拦截
+- RULE-SET,reject, 广告拦截
+- RULE-SET,direct,DIRECT
+- RULE-SET,cncidr,DIRECT
+- RULE-SET,cn_ip,DIRECT,no-resolve
+- RULE-SET,geoip_cloudfront,DIRECT,no-resolve
+- RULE-SET,private,DIRECT
+- RULE-SET,lancidr,DIRECT
+- GEOIP,LAN,DIRECT,no-resolve
+- GEOIP,CN,DIRECT,no-resolve
+- RULE-SET,applications,DIRECT
+- DOMAIN-SUFFIX,julebu.co,DIRECT
+- RULE-SET,blackmatrix7_direct,DIRECT
+- RULE-SET,private_domain,DIRECT
+- RULE-SET,cn_domain,DIRECT
+- DOMAIN-SUFFIX,apple.com,DIRECT
+- DOMAIN-SUFFIX,icloud.com,DIRECT
+- DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+- RULE-SET,apple_cn_domain,DIRECT
+- DOMAIN-SUFFIX,ls.apple.com,DIRECT
+- RULE-SET,telegram_ip,代理模式,no-resolve
+- RULE-SET,Telegram_No_Resolve,代理模式,no-resolve
+- RULE-SET,geoip_cloudflare,代理模式,no-resolve
+- RULE-SET,geoip_netflix,代理模式,no-resolve
+- RULE-SET,ai,代理模式
+- RULE-SET,openai,代理模式
+- RULE-SET,claude,代理模式
+- RULE-SET,gemini,代理模式
+- RULE-SET,telegramcidr,代理模式,no-resolve
+- RULE-SET,telegram_domain,代理模式
+- RULE-SET,youtube_domain,代理模式
+- RULE-SET,tiktok_domain,代理模式
+- RULE-SET,netflix_domain,代理模式
+- RULE-SET,disney_domain,代理模式
+- RULE-SET,spotify,代理模式
+- RULE-SET,google,代理模式
+- RULE-SET,icloud,代理模式
+- RULE-SET,apple,代理模式
+- RULE-SET,gfw_domain,代理模式
+- RULE-SET,geolocation-!cn,代理模式
+- RULE-SET,tld-not-cn,代理模式
+- RULE-SET,gfw,代理模式
+- RULE-SET,greatfire,代理模式
+- RULE-SET,proxy_from_DustinWin,代理模式
+- RULE-SET,proxy,代理模式
+- MATCH, 漏网之鱼
+rule-providers:
+  reject:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt
+    path: ./ruleset/reject.yaml
+    interval: 86400
+  icloud:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
+    path: ./ruleset/icloud.yaml
+    interval: 86400
+  apple:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt
+    path: ./ruleset/apple.yaml
+    interval: 86400
+  google:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt
+    path: ./ruleset/google.yaml
+    interval: 86400
+  proxy:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt
+    path: ./ruleset/proxy.yaml
+    interval: 86400
+  openai:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/custom/openai.yaml
+  claude:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml
+    path: ./ruleset/custom/Claude.yaml
+  gemini:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml
+    path: ./ruleset/custom/Gemini.yaml
+  spotify:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml
+    path: ./ruleset/custom/Spotify.yaml
+  telegramcidr:
+    type: http
+    behavior: ipcidr
+    url: https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt
+    path: ./ruleset/custom/telegramcidr.yaml
+  direct:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+    path: ./ruleset/direct.yaml
+    interval: 86400
+  private:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt
+    path: ./ruleset/private.yaml
+    interval: 86400
+  gfw:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
+    path: ./ruleset/gfw.yaml
+    interval: 86400
+  greatfire:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt
+    path: ./ruleset/greatfire.yaml
+    interval: 86400
+  tld-not-cn:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt
+    path: ./ruleset/tld-not-cn.yaml
+    interval: 86400
+  cncidr:
+    type: http
+    behavior: ipcidr
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt
+    path: ./ruleset/cncidr.yaml
+    interval: 86400
+  lancidr:
+    type: http
+    behavior: ipcidr
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
+    path: ./ruleset/lancidr.yaml
+    interval: 86400
+  applications:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt
+    path: ./ruleset/applications.yaml
+    interval: 86400
+  AWAvenue_Ads_Rule:
+    type: http
+    behavior: domain
+    format: yaml
+    interval: 86400
+    path: ./ruleset/AWAvenue_Ads_Rule_Clash.yaml
+    url: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main//Filters/AWAvenue-Ads-Rule-Clash.yaml
+  blackmatrix7_ad:
+    type: http
+    behavior: domain
+    format: yaml
+    interval: 86400
+    path: ./ruleset/blackmatrix7_ad.yaml
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.yaml
+  blackmatrix7_direct:
+    type: http
+    behavior: domain
+    format: yaml
+    interval: 86400
+    path: ./ruleset/blackmatrix7_direct.yaml
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.yaml
+  private_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/private_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs
+  cn_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/cn_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs
+  cn_ip:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    interval: 86400
+    path: ./ruleset/cn_ip.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs
+  trackerslist:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/trackerslist.mrs
+    url: https://github.com/DustinWin/ruleset_geodata/raw/refs/heads/mihomo-ruleset/trackerslist.mrs
+  proxy_from_DustinWin:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/proxy.mrs
+    url: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/proxy.mrs
+  gfw_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/gfw_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/gfw.mrs
+  geolocation-!cn:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/geolocation-!cn.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.mrs
+  ai:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/ai.mrs
+    url: https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/ai.mrs
+  cloudflare:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/cloudflare.mrs
+    url: https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/cloudflare.mrs
+  geoip_cloudflare:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    interval: 86400
+    path: ./ruleset/geoip_cloudflare.mrs
+    url: https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geoip/cloudflare.mrs
+  youtube_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/youtube_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs
+  tiktok_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/tiktok_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs
+  netflix_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/netflix_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/netflix.mrs
+  disney_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/disney_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo/geosite/disney.mrs
+  geoip_netflix:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    interval: 86400
+    path: ./ruleset/geoip_netflix.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs
+  telegram_domain:
+    type: http
+    behavior: domain
+    format: yaml
+    interval: 86400
+    path: ./ruleset/telegram_domain.yaml
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml
+  telegram_ip:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    interval: 86400
+    path: ./ruleset/telegram_ip.mrs
+    url: https://github.com/DustinWin/ruleset_geodata/raw/refs/heads/mihomo-ruleset/telegramip.mrs
+  Telegram_No_Resolve:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    path: ./ruleset/Telegram_No_Resolve.yaml
+    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Telegram/Telegram_No_Resolve.yaml
+  apple_cn_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/apple_cn_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.mrs
+  onedrive_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    interval: 86400
+    path: ./ruleset/onedrive_domain.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.mrs
+  geoip_cloudfront:
+    type: http
+    behavior: ipcidr
+    format: mrs
+    interval: 86400
+    path: ./ruleset/geoip_cloudfront.mrs
+    url: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cloudfront.mrs
