@@ -1,39 +1,99 @@
-# .github/workflows/main.yml
-name: Generate Proxy Provider
+# 工作流名称
+name: Auto Update Proxies
 
+# 触发器配置
 on:
-  workflow_dispatch:
+  # 1. 定时触发器 (schedule):
+  #    - '0 * * * *' 表示每小时执行一次.
   schedule:
-    - cron: '1 */1 * * *' # 每小时运行一次
+    - cron: '0 0/10 * * *'
 
+  # 2. 手动触发器 (workflow_dispatch):
+  #    - 允许你手动运行此工作流.
+  workflow_dispatch:
+
+# 为整个工作流设置默认权限
+permissions:
+  contents: write # 需要写入权限来提交更改
+
+# 定义工作流中的任务 (jobs)
 jobs:
-  build:
+  # 任务1: 检查上游仓库是否有更新
+  check-for-update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
+    outputs:
+      has_update: ${{ steps.check.outputs.has_update }}
+      latest_sha: ${{ steps.check.outputs.latest_sha }}
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Check for upstream updates
+        id: check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OWNER="TopChina"
+          REPO="proxy-list"
+          FILE_PATH="README.md"
+          STATE_FILE="upstream_commit.sha"
+          API_URL="https://api.github.com/repos/${OWNER}/${REPO}/commits?path=${FILE_PATH}&per_page=1"
+
+          PREVIOUS_SHA=""
+          if [ -f "$STATE_FILE" ]; then
+            PREVIOUS_SHA=$(cat "$STATE_FILE")
+          fi
+          echo "Previous recorded SHA: ${PREVIOUS_SHA:-'None'}"
+
+          LATEST_SHA=$(curl -s -H "Authorization: token ${GITHUB_TOKEN}" -H "Cache-Control: no-cache" "${API_URL}" | jq -r '.[0].sha')
+          
+          if [ -z "$LATEST_SHA" ] || [ "$LATEST_SHA" == "null" ]; then
+            echo "::error::Could not fetch latest commit SHA from upstream repository."
+            exit 1
+          fi
+          echo "Latest upstream SHA: $LATEST_SHA"
+
+          if [ "$LATEST_SHA" != "$PREVIOUS_SHA" ]; then
+            echo "✅ New update found! Upstream SHA: $LATEST_SHA"
+            echo "has_update=true" >> $GITHUB_OUTPUT
+            echo "latest_sha=${LATEST_SHA}" >> $GITHUB_OUTPUT
+          else
+            echo "No new update found. The local version is up-to-date."
+            echo "has_update=false" >> $GITHUB_OUTPUT
+          fi
+          
+  # 任务2: 如果有更新，则执行更新、生成配置并提交
+  update-and-commit:
+    needs: check-for-update
+    if: needs.check-for-update.outputs.has_update == 'true'
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Create/Update state file with the latest SHA
+        run: echo "${{ needs.check-for-update.outputs.latest_sha }}" > upstream_commit.sha
+
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests pyyaml
 
-      - name: Run proxy generation script
-        run: python generate_proxies.py # 确保脚本文件名一致
+      # --- 修改点 1 ---
+      - name: Run the script to generate proxies
+        run: python generate_proxies.py
 
-      - name: Commit and push proxy list
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add proxies.yaml # 更改为 proxies.yaml
-          # 只有当文件有变动时才执行提交
-          git diff --staged --quiet || git commit -m "chore: Auto update proxy list"
-          git push
+      # --- 修改点 2 ---
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🎉 Auto-update proxies from upstream commit ${{ needs.check-for-update.outputs.latest_sha }}'
+          file_pattern: 'proxies.yaml upstream_commit.sha'
