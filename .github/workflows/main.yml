@@ -3,11 +3,7 @@ name: Auto Update Proxies
 
 # 触发器配置
 on:
-  # 1. 定时触发器 (schedule):
-  schedule:
-    - cron: '*/10 * * * *'
-
-  # 2. 手动触发器 (workflow_dispatch):
+  # 1. 手动触发器 (workflow_dispatch):
   #    - 允许你手动运行此工作流.
   workflow_dispatch:
 
