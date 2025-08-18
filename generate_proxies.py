@@ -1,11 +1,15 @@
 import requests
 import yaml
 import re
+import os
+import sys
 from collections import defaultdict
+from datetime import datetime
 
 # --- 配置区 ---
 SOURCE_URL = "https://raw.githubusercontent.com/TopChina/proxy-list/main/README.md"
 OUTPUT_FILE = "proxies.yaml"
+LAST_UPDATE_FILE = "last_update_time.txt"
 # 默认密码
 DEFAULT_PASSWORD = "1"
 
@@ -130,6 +134,71 @@ def get_js_based_config():
         "predefined-groups": predefined_groups
     }
 
+def extract_update_time(content):
+    """从README内容中提取更新时间"""
+    # 匹配格式：2025年08月18日 07:20, 本次发布有效代理309个
+    patterns = [
+        r'(\d{4}年\d{1,2}月\d{1,2}日\s+\d{1,2}:\d{2}),\s*本次发布有效代理\d+个',
+        r'(\d{4}年\d{1,2}月\d{1,2}日\s+\d{1,2}:\d{2})',  # 备用匹配
+    ]
+    
+    for pattern in patterns:
+        match = re.search(pattern, content)
+        if match:
+            update_time = match.group(1).strip()
+            print(f"[+] Found update time: {update_time}")
+            return update_time
+    
+    print("[!] Could not find update time in content")
+    # 调试：打印一些内容帮助定位问题
+    lines = content.split('\n')
+    for i, line in enumerate(lines):
+        if '更新' in line or '代理' in line:
+            print(f"[DEBUG] Line {i}: {line}")
+    return None
+
+def read_last_update_time():
+    """读取上次记录的更新时间"""
+    try:
+        if os.path.exists(LAST_UPDATE_FILE):
+            with open(LAST_UPDATE_FILE, 'r', encoding='utf-8') as f:
+                last_time = f.read().strip()
+                print(f"[*] Last recorded update time: {last_time}")
+                return last_time
+        else:
+            print("[*] No previous update time record found")
+            return None
+    except Exception as e:
+        print(f"[!] Error reading last update time: {e}")
+        return None
+
+def save_update_time(update_time):
+    """保存当前的更新时间"""
+    try:
+        with open(LAST_UPDATE_FILE, 'w', encoding='utf-8') as f:
+            f.write(update_time)
+        print(f"[+] Saved new update time: {update_time}")
+    except Exception as e:
+        print(f"[!] Error saving update time: {e}")
+
+def check_for_updates(content):
+    """检查是否有更新"""
+    current_update_time = extract_update_time(content)
+    if not current_update_time:
+        print("[!] Cannot determine current update time, forcing update")
+        return True, current_update_time
+    
+    last_update_time = read_last_update_time()
+    if not last_update_time:
+        print("[*] No previous update time, proceeding with update")
+        return True, current_update_time
+    
+    if current_update_time == last_update_time:
+        print(f"[=] No update needed. Current time: {current_update_time} matches last time: {last_update_time}")
+        return False, current_update_time
+    else:
+        print(f"[+] Update detected! Current: {current_update_time}, Last: {last_update_time}")
+        return True, current_update_time
 def main():
     """主函数"""
     print(f"[*] Fetching proxy data from {SOURCE_URL}...")
@@ -140,6 +209,12 @@ def main():
     except requests.exceptions.RequestException as e:
         print(f"[!] Error fetching data: {e}")
         return
+
+    # 检查是否需要更新
+    needs_update, current_time = check_for_updates(content)
+    if not needs_update:
+        print("[=] No update needed, exiting.")
+        sys.exit(0)
 
     pattern = re.compile(r"\|\s*([\d\.:]+)\s*\|\s*([^|]+)\s*\|\s*([^|]+)\s*\|")
 
@@ -241,6 +316,11 @@ def main():
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             yaml.dump(clash_config, f, allow_unicode=True, sort_keys=False)
         print(f"[✔] Successfully generated Clash config at: {OUTPUT_FILE}")
+        
+        # 保存当前更新时间
+        if current_time:
+            save_update_time(current_time)
+            
     except Exception as e:
         print(f"[!] Error writing to file: {e}")
 
